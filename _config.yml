@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Wen-Huai Tsao"
 title_separator          : "-"
 subtitle                 : "COWI"
-name                     : &name "Wen-Huai Tsaos" # &name is a YAML anchor which can be *referenced later
+name                     : &name "Wen-Huai Tsao" # &name is a YAML anchor which can be *referenced later
 description              : &description "Wen-Huai Tsao's personal website."
 url                      : https://whtsao.github.io # the base hostname & protocol
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
