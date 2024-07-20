@@ -1,0 +1,10 @@
+# Authors
+
+Wen-Huai Tsao:
+  name        : "Wen-Huai Tsao"
+  bio         : "Coastal Marine Designer in COWI"
+  avatar      : "/assets/images/headshot.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://whtsao.github.io"
