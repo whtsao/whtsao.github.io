@@ -1,5 +1,5 @@
 ---
-title: "Simulating wave interaction with structures"
+title: "R&D High-Fidelity Computational Tools for Simulating Wave-Streucture Interaction"
 share: false
 ---
 
