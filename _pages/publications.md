@@ -93,7 +93,9 @@ permalink: /publications/
 </p>
 <p style="text-align: justify;">
 5.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Global motions of a floating platform with tuned liquid damper in waves. Engineering Mechanics Institute Conference, Atlanta, USA.
-6.	<strong>Tsao, W.H.<strong> and Kees, C.E. (2023). Proteus: High-order methods for wave-structure interactions in coastal and offshore environments. Scientific Computing Around Louisiana, New Orleans, USA.
+</p>
+<p style="text-align: justify;">
+6.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Proteus: High-order methods for wave-structure interactions in coastal and offshore environments. Scientific Computing Around Louisiana, New Orleans, USA.
 </p>
 <p style="text-align: justify;">
 7.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). An improved boundary integral equation method with arbitrary Lagrangian-Eulerian approach for nonlinear wave-bottom interaction problems. American Geophysical Union Fall Meeting, Chicago, USA.
