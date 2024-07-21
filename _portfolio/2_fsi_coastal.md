@@ -2,8 +2,8 @@
 title: "Fluid-Structure Interaction in Coastal Engineering"
 excerpt: "Modeling how fluids interact with moving and deforming solid structures."
 header:
-  image: /assets/images/fsi.png
-  teaser: /assets/images/fsi.png
+  image: /assets/images/mangrove_sim.png
+  teaser: /assets/images/mangrove_sim.png
 share: false
 ---
 
