@@ -4,7 +4,7 @@ title: "Publications"
 collection: publications
 permalink: /publications/
 ---
-
+<p style="text-align: justify;">
 **Journal Articles**
 1.	**Tsao, W.H.**, Kees, C.E., Schurr, R. (2024). High-order phase-resolving CutFEM for wave transformation over natural shorelines, Journal of Waterway Port Coastal and Ocean Engineering, (Under review).
 2.	**Tsao, W.H.**, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, Engineering Analysis with Boundary Elements, 157, 326-341.
@@ -46,3 +46,4 @@ permalink: /publications/
 
 **Patents**
 1.	Tuned Liquid Dampers with Porous Media, **Japan Patent** #3217982, issued August 22, 2018; **China Patent** #ZL20182 0503987.2, issued January 18, 2019; **Taiwan Patent** #M564058, issued July 21, 2018.
+</p>
