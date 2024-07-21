@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/
 ---
 
-Journal Articles
+**Journal Articles**
 1.	Tsao, W.H., Kees, C.E., Schurr, R. (2024). High-order phase-resolving CutFEM for wave transformation over natural shorelines, Journal of Waterway Port Coastal and Ocean Engineering, (Under review).
 2.	Tsao, W.H., Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, Engineering Analysis with Boundary Elements, 157, 326-341.
 3.	Tsao, W.H., Chen, Y.C., Kees, C.E., Manuel, L. (2023). Response mitigation of floating platform by porous-media-tuned liquid dampers, Journal of Ocean, Offshore and Arctic Engineering, 145(5), 051203.
@@ -20,7 +20,7 @@ Journal Articles
 12.	Tsao, W.H. and Hwang, W.S. (2017). Regularized boundary integral methods for three–dimensional potential flows. Engineering Analysis with Boundary Elements, 77, 49-60.
 13.	Chen, Y.H., Hwang, W.S. and Tsao, W.H. (2017). Nonlinear sloshing analysis by regularized boundary integral method. Journal of Engineering Mechanics, 143(8), 040170046.
 
-Conference Proceedings
+**Conference Proceedings**
 1.	Tsao, W.H., Schurr, R., Kees, C.E. (2023). High-order phase-resolving method for wave transformation over natural shorelines, Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering, Melbourne, Australia.
 2.	Tsao, W.H., Chen, Y.C., Kees, C.E., Manuel, L. (2022). Response mitigation of floating platform by porous-media tuned liquid dampers, Proceedings of the ASME 2022 41st International Conference on Ocean, Offshore and Arctic Engineering, Hamburg, Germany.
 3.	Tsao, W.H. and Kinnas, A.S. (2020). Local study of jet of a fluid sloshing inside a rolling tank. Proceedings of the ASME 39th International Conference on Ocean, Offshore and Arctic Engineering, Fort Lauderdale, USA.
@@ -32,7 +32,7 @@ Conference Proceedings
 9.	Tsao, W.H. and Hwang, W.S. (2017). The analysis of regularized boundary integral methods for a non-smooth body in potential flows. 29th Taiwan SNAME and MOST Symposium, Taipei, Taiwan.
 10.	Tsao, W.H. and Hwang, W.S. (2016). The analysis of regularized boundary integral methods for an oblate body in potential flows. 28th Taiwan SNAME and MOST Symposium, Taipei, Taiwan.
 
-Posters & Abstracts
+**Posters & Abstracts**
 1.	Tsao, W.H., Chen, Y.C., Manuel, L., Kees, C.E. (2024). Parametric study and uncertainty quantification on wave attenuation and hydrodynamic impact mitigation induced by mangrove forests. Engineering Mechanics Institute Conference, Chicago, USA.
 2.	Tsao, W.H. and Kees, C.E. (2024). Multiscale analysis of fluid-structure interaction involves complex geometry under wave and current effects. Engineering Mechanics Institute Conference, Chicago, USA.
 3.	Tsao, W.H. and Kees, C.E. (2023). Computational analysis of wave and current interactions with mangrove forests. American Geophysical Union Fall Meeting, San Francisco, USA. 
@@ -44,5 +44,5 @@ Posters & Abstracts
 9.	Tsao, W.H. and Kees, C.E. (2022). Arbitrary Lagrangian-Eulerian method in finite-element model for nonlinear wave-bottom interaction, 8th Young Coastal Scientists and Engineers Conference-Americas, Pensacola, USA.
 10.	Kees, C.E., Tovar, E., Schurr, R., and Tsao, W.H. (2021). High-performance computational models of non-hydrostatic water waves over complex bathymetry. American Geophysical Union Fall Meeting, New Orleans, USA.
 
-Patents
+**Patents**
 1.	Tuned Liquid Dampers with Porous Media, Japan Patent #3217982, issued August 22, 2018; China Patent #ZL20182 0503987.2, issued January 18, 2019; Taiwan Patent #M564058, issued July 21, 2018.

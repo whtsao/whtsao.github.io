@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Ongoing areas of interest
+Areas of interest
