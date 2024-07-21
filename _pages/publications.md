@@ -17,7 +17,7 @@ permalink: /publications/
 9.	**Tsao, W.H.** and Hwang, W.S. (2019). Dynamic characteristics of liquid sloshing in cylindrical tanks filled with porous media. IOP Conference series: Earth and Environmental Science, 351, 012007.
 10.	**Tsao, W.H.** and Hwang, W.S. (2018). Tuned liquid dampers with porous media. Ocean Engineering, 167(1), 55-64.
 11.	Chen, Y.H., Hwang, W.S. and **Tsao, W.H.** (2018). Nonlinear dynamic characteristics of rectangular and cylindrical TLD’s. Journal of Engineering Mechanics, 144(9), 06018004.
-12.	Tsao, W.H. and Hwang, W.S. (2017). Regularized boundary integral methods for three–dimensional potential flows. Engineering Analysis with Boundary Elements, 77, 49-60.
+12.	**Tsao, W.H.** and Hwang, W.S. (2017). Regularized boundary integral methods for three–dimensional potential flows. Engineering Analysis with Boundary Elements, 77, 49-60.
 13.	Chen, Y.H., Hwang, W.S. and **Tsao, W.H.** (2017). Nonlinear sloshing analysis by regularized boundary integral method. Journal of Engineering Mechanics, 143(8), 040170046.
 
 **Conference Proceedings**
