@@ -1,8 +1,8 @@
 ---
-title: Research
+title: Portfolio
 layout: collection
-permalink: /research/
-collection: research
+permalink: /portfolio/
+collection: portfolio
 entries_layout: grid
 classes: wide
 ---
