@@ -2,8 +2,8 @@
 title: "Fluid-Structure Interaction in Marine Engineering"
 excerpt: "Modeling how fluids interact with moving and deforming solid structures."
 header:
-  image: /assets/images/fsi.png
-  teaser: /assets/images/fsi.png
+  image: /assets/images/floater.png
+  teaser: /assets/images/floater.png
 share: false
 ---
 
