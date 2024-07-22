@@ -10,7 +10,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  Research in physics-based modeling and computational methods for coastal, hydraulic, and hydrologic engineering. <bf />
+  Physics-based modeling and computational methods for marine, coastal, and offshore engineering. <bf />
 feature_row:
   - image_path: /assets/images/models.jpg
     alt: "Modeling"
@@ -30,7 +30,7 @@ feature_row:
     alt: "Software"
     title: "Software"
     excerpt: "Python software for computational methods and simulation. Model waves, open channel flow, fluid-structure interaction, etc..."
-    url: "https://proteustoolkit.org"
+    url: "/software"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
