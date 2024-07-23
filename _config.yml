@@ -179,6 +179,9 @@ kramdown:
 
 # Collections
 collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -191,7 +194,18 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-
+  contact:
+    output: true
+    permalink: /:collection/:path/
+  researchprojects:
+    output: true
+    permalink: /researchprojects/:path/
+  engineeringprojects:
+    output: true
+    permalink: /engineeringprojects/:path/
+  tinkeringprojects:
+    output: true
+    permalink: /tinkeringprojects/:path/
 
 
 # Defaults
