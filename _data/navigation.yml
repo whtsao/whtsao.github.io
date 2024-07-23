@@ -20,6 +20,8 @@ foo:
 
 # main links
 main:
+  - title: "About"
+    url: /wenhuai_tsao/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Projects"
@@ -28,8 +30,6 @@ main:
     url: /publications/
   - title: "Software"
     url: /software/
-  - title: "About"
-    url: /wenhuai_tsao/
   - title: "Contact"
     url: /contact/
 
