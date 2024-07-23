@@ -9,7 +9,7 @@ classes: wide
 
 # Contact Me
 
-Feel free to leave your name, email, and message below. I'll get back to you as soon as possible.
+Please feel free to leave your comments below. I'll respond as soon as possible.
 
 <form action="https://formspree.io/f/xwpevqbn" method="POST">
   <label for="name">Name:</label><br>
