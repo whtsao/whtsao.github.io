@@ -30,7 +30,8 @@ main:
     url: /software/
   - title: "About"
     url: /wenhuai_tsao/
-
+  - title: "Contact"
+    url: /contact/
 
 # documentation links
 docs:
