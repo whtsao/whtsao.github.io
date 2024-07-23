@@ -1,5 +1,5 @@
 ---
-title: Contact Me
+title: Contact
 layout: collection
 permalink: /contact/
 collection: contact
@@ -7,9 +7,7 @@ entries_layout: grid
 classes: wide
 ---
 
-# Contact Me
-
-Please feel free to leave your comments below. I'll respond as soon as possible.
+Please feel free to leave your comments below. I will respond as soon as possible.
 
 <form action="https://formspree.io/f/xwpevqbn" method="POST">
   <label for="name">Name:</label><br>
