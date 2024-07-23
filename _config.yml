@@ -199,13 +199,13 @@ collections:
     permalink: /:collection/:path/
   projectsresearch:
     output: true
-    permalink: /projectsresearch/:path/
+    permalink: /:collection/:path/
   projectsengineering:
     output: true
-    permalink: /projectsengineering/:path/
+    permalink: /:collection/:path/
   projectstinkering:
     output: true
-    permalink: /projectstinkering/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -272,10 +272,10 @@ defaults:
       comments: false
       sidebar:
         nav: "contact"  
-  # _researchprojects
+  # _projectsresearch
   - scope:
       path: ""
-      type: researchprojects
+      type: projectsresearch
     values:
       layout: single
       read_time: false
@@ -283,11 +283,11 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "researchprojects" 
-  # _engineeringprojects
+        nav: "projectsresearch" 
+  # _projectsengineering
   - scope:
       path: ""
-      type: engineeringprojects
+      type: projectsengineering
     values:
       layout: single
       read_time: false
@@ -295,11 +295,11 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "engineeringprojects" 
-  # _tinkeringprojects
+        nav: "projectsengineering" 
+  # _projectstinkering
   - scope:
       path: ""
-      type: tinkeringprojects
+      type: projectstinkering
     values:
       layout: single
       read_time: false
@@ -307,7 +307,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "tinkeringprojects" 
+        nav: "projectstinkering" 
 
 
   # _posts

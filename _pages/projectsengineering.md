@@ -1,8 +1,10 @@
 ---
-title: "Engineering Projects"
+title: Engineering Projects
 layout: collection
-collection: projectsengineering
 permalink: /projectsengineering/
+collection: projectsengineering
 entries_layout: grid
 classes: wide
 ---
+
+these are engineering projects.

@@ -1,8 +1,10 @@
 ---
-title: "Research Projects"
+title: Research Projects
 layout: collection
-collection: projectsresearch
 permalink: /projectsresearch/
+collection: projectsresearch
 entries_layout: grid
 classes: wide
 ---
+
+Research projects.

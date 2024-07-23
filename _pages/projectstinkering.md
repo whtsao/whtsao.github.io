@@ -1,8 +1,10 @@
 ---
-title: "Tinkering Projects"
+title: Tinkering Projects
 layout: collection
-collection: projectstinkering
 permalink: /projectstinkering/
+collection: projectstinkering
 entries_layout: grid
 classes: wide
 ---
+
+fun projects.
