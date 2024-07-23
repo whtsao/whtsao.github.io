@@ -197,15 +197,15 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
-  researchprojects:
+  projectsresearch:
     output: true
-    permalink: /researchprojects/:path/
-  engineeringprojects:
+    permalink: /projectsresearch/:path/
+  projectsengineering:
     output: true
-    permalink: /engineeringprojects/:path/
-  tinkeringprojects:
+    permalink: /projectsengineering/:path/
+  projectstinkering:
     output: true
-    permalink: /tinkeringprojects/:path/
+    permalink: /projectstinkering/:path/
 
 
 # Defaults
