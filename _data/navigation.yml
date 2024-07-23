@@ -26,6 +26,13 @@ main:
     url: /portfolio/
   - title: "Projects"
     url: /projects/
+    children:
+      - title: "Research Projects"
+        url: /researchprojects/
+      - title: "Engineering Projects"
+        url: /engineeringprojects/
+      - title: "Tinkering Projects"
+        url: /tinkeringprojects/
   - title: "Publications"
     url: /publications/
   - title: "Software"
