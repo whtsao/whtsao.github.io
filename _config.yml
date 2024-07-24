@@ -197,16 +197,6 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
-  projectsresearch:
-    output: true
-    permalink: /:collection/:path/
-  projectsengineering:
-    output: true
-    permalink: /:collection/:path/
-  projectstinkering:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -272,44 +262,7 @@ defaults:
       comments: false
       sidebar:
         nav: "contact"  
-  # _projectsresearch
-  - scope:
-      path: ""
-      type: projectsresearch
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "projectsresearch" 
-  # _projectsengineering
-  - scope:
-      path: ""
-      type: projectsengineering
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "projectsengineering" 
-  # _projectstinkering
-  - scope:
-      path: ""
-      type: projectstinkering
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "projectstinkering" 
-
-
+  
   # _posts
   - scope:
       path: ""
