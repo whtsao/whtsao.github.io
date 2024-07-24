@@ -11,4 +11,4 @@ share: false
 research projects.
 </p>
 
-[DT](../projects_research/1_digitaltwin.md)
+[DT](https://whtsao.github.io/projects_research/1_digitaltwin.md)
