@@ -6,7 +6,3 @@ header:
   teaser: /assets/images/projects_research.png
 share: false
 ---
-
-<p style="text-align: justify;">
-Research projects.
-</p>
