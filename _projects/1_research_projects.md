@@ -11,4 +11,4 @@ share: false
 research projects.
 </p>
 
-[DT](../_projects_research/1_digitaltwin.md)
+[DT](../projects_research/1_digitaltwin.md)
