@@ -1,5 +1,5 @@
 ---
-title: "Digital Twins for Agrivoltaic and Floating Solar Farms to Support Design Exploration, Deployment, and Multi-Objective Optimization for Setting Best Practices"
+title: Digital Twins for Agrivoltaic and Floating Solar Farms to Support Design Exploration, Deployment, and Multi-Objective Optimization for Setting Best Practices
 share: false
 ---
 
