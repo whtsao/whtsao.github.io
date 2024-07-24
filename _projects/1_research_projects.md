@@ -1,8 +1,14 @@
 ---
-layout: collection
 title: "Research Projects"
-collection: projects
-permalink: /projects/projects-research
+excerpt: "Focus on the understanding of Fluid-structure interactions through numerical and experimental approaches."
+header:
+  image: /assets/images/projects_research.png
+  teaser: /assets/images/projects_research.png
+share: false
 ---
 
-Ongoing research and development projects
+<p style="text-align: justify;">
+research projects.
+</p>
+
+[DT](../_projects_research/1_digitaltwin.md)
