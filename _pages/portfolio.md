@@ -7,3 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
+<img src="/assets/images/floater.png" alt="Floater dynamics" width="600" height="400">
