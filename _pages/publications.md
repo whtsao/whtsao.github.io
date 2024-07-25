@@ -7,10 +7,10 @@ permalink: /publications/
 
 **Journal Articles**
 <p style="text-align: justify;">
-&middot; <strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2024). High-order phase-resolving CutFEM for wave transformation over natural shorelines, Journal of Waterway Port Coastal and Ocean Engineering, (Under review).
+1.	<strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2024). High-order phase-resolving CutFEM for wave transformation over natural shorelines, Journal of Waterway Port Coastal and Ocean Engineering, (Under review).
 </p>
 <p style="text-align: justify;">
-<span style="font-size: larger;">&middot;</span> <strong>Tsao, W.H.</strong>, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, Engineering Analysis with Boundary Elements, 157, 326-341. <a href="https://doi.org/10.1016/j.enganabound.2023.09.019" target="_blank">doi: 10.1016/j.enganabound.2023.09.019</a>
+2.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, Engineering Analysis with Boundary Elements, 157, 326-341. <a href="https://doi.org/10.1016/j.enganabound.2023.09.019" target="_blank">doi: 10.1016/j.enganabound.2023.09.019</a>
 </p>
 <p style="text-align: justify;">
 3.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Response mitigation of floating platform by porous-media-tuned liquid dampers, Journal of Ocean, Offshore and Arctic Engineering, 145(5), 051203. <a href="https://doi.org/10.1115/1.4062292" target="_blank">doi: 10.1115/1.4062292</a>
@@ -28,7 +28,7 @@ permalink: /publications/
 7.	<strong>Tsao, W.H.</strong> and Huang, Y.L. (2021). Sloshing force in a rectangular tank with porous media. Results in Engineering, 11, 100250. <a href="https://doi.org/10.1016/j.rineng.2021.100250" target="_blank">doi: 10.1016/j.rineng.2021.100250</a>
 </p>
 <p style="text-align: justify;">
-8.	<strong>Tsao, W.H.</strong> and Chang, T.J. (2020). Sloshing phenomenon in rectangular and cylindrical tanks filled with porous media: supplementary solution and impulsive-excitation experiment. Journal of Engineering Mechanics, 146(12), 04020139. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.000187" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.000187</a>
+8.	<strong>Tsao, W.H.</strong> and Chang, T.J. (2020). Sloshing phenomenon in rectangular and cylindrical tanks filled with porous media: supplementary solution and impulsive-excitation experiment. Journal of Engineering Mechanics, 146(12), 04020139. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0001878" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.0001878</a>
 </p>
 <p style="text-align: justify;">
 9.	<strong>Tsao, W.H.</strong> and Hwang, W.S. (2019). Dynamic characteristics of liquid sloshing in cylindrical tanks filled with porous media. IOP Conference series: Earth and Environmental Science, 351, 012007. <a href="https://doi.org/10.1088/1755-1315/351/1/012007" target="_blank">doi: 10.1088/1755-1315/351/1/012007</a>
