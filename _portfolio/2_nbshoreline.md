@@ -1,5 +1,5 @@
 ---
-title: "Fluid-Structure Interaction (Coastal)"
+title: "Natural Shoreline Design"
 excerpt: "Studying shoreline protection and ecosystem design through high-performance modeling of mangrove forests in waves."
 header:
   image: /assets/images/mangrove_sim.png

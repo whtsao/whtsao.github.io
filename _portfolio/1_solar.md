@@ -1,9 +1,9 @@
 ---
-title: "Fluid-Structure Interaction (Marine)"
+title: "Solar Energy Deployment"
 excerpt: "Modeling the dynamics of floaters undergoing wave, wind, and current effects."
 header:
-  image: /assets/images/floater.png
-  teaser: /assets/images/floater.png
+  image: /assets/images/solarpanel.png
+  teaser: /assets/images/solarpanel.png
 share: false
 ---
 
@@ -11,4 +11,3 @@ share: false
 Floating structures are just one type of problem where the fluid and solid dynamics are tightly coupled to create a Fluid-Structure Interaction (FSI) problem. We have been developing models that are accurate and robust enough to use on coastal and riverine engineering design and assessment, but many open challenges remain.
 </p>
 
-<img src="/assets/images/floater.png" alt="Floater Image" style="width:300px; height:200px;">
