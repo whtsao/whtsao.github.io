@@ -19,5 +19,4 @@ High Accuracy: Advanced numerical methods ensure precise results.
 Versatility: Capable of handling various types of flows and wave equations.
 Efficient Computation: Optimized algorithms for faster performance.
 
-#[Documenation](https://proteustoolkit.org)
-#[Github](https://github.com/erdc/proteus)
+<!-- [Documenation](https://proteustoolkit.org) [Github](https://github.com/erdc/proteus)-->
