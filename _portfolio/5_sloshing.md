@@ -2,11 +2,12 @@
 title: "Sloshing"
 excerpt: "Characterize sloshing phenomenon."
 header:
-  image: /assets/images/breakwave.png
-  teaser: /assets/images/breakwave.png
+  image: /assets/images/sloshing.png
+  teaser: /assets/images/sloshing.png
 share: false
 ---
 
 <p style="text-align: justify;">
-In this work we consider non-hydrstatic models of water waves ranging from the Serre-Green-Naghdi model of nonlinear dispersive shallow water waves to full three-dimensional wave models based on free-boundary and two-phase incompressible Navier-Stokes models. These models provide the capability to resolve a range of important physical processes neglected by the Shallow Water Equations, such as dispersion and breaking. These additional processes, however, come at increased computational expense and numerical complexity. Furthermore, it stands to reason that higher-fidelity process models should make use of higher-fidelity model input, particularly bathymetry. Luckily, rapid advances in geospatial remote sensing over the last decade have made high-fidelity bathymetry more widely available. These high-fidelity data sets present their own challenges, however. We address several of these challenges in the context of non-hydrostatic wave models, including achieving qualitatively correct numerical solutions over variable bathymetry and processing large elevation data sets into suitable computational meshes. We address the well-balanced property for free surface flows over variable bathymetry, robustness during wetting and drying, and both conforming and embedded approaches to representing surface elevations. The overall objective is to allow modelers to begin exploiting high-fidelity models for both local engineering design and for informing sub-grid parameterizations in earth system models.
+A new boundary integral method (BIM) is employed in this paper to study the two-dimensional (2D) and the three-dimensional (3D) nonlinear sloshing problems. Applying the subtracting and adding-back technique by regularized boundary integral method, the integrals of singularity and near-singularity in the boundary integral equation (BIE) can be removed and replaced appropriately by the alternative terms, respectively. In contrast to boundary element method (BEM), BIM is simpler and more straightforward. Therefore, BIM can not only provide an accurate prediction of the nonlinear free surface oscillation, but also demonstrate the excellent efficiency of numerical calculation.
+Several small-scaled model tests on a shaking table, including harmonic and earthquake excitations, are carried out to verify the numerical methods. An artificial damping coefficient is introduced to simulate the energy dissipation of liquid motion. By comparison of the experimental and numerical results, BIM will be more reliable, efficient and practical for nonlinear sloshing simulation.
 </p>
