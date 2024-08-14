@@ -1,6 +1,6 @@
 ---
 title: "HDF5 and XMF creator"
-excerpt: "Boundary Element Analysis Unified Tool for You."
+excerpt: "Create HDF5 and XMF files for visualization through ParaView."
 header:
   image: /assets/images/proteus.jpg
   teaser: /assets/images/proteus.jpg
