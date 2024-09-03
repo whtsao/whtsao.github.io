@@ -53,16 +53,16 @@ permalink: /publications/
 
 **Conference Proceedings**
 <p style="text-align: justify;">
-1.	<strong>Tsao, W.H.</strong>, Schurr, R., Kees, C.E. (2023). High-order phase-resolving method for wave transformation over natural shorelines, Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering, Melbourne, Australia.
+1.	<strong>Tsao, W.H.</strong>, Schurr, R., Kees, C.E. (2023). High-order phase-resolving method for wave transformation over natural shorelines, Proceedings of the ASME 2023 42nd International Conference on Ocean, Offshore and Arctic Engineering, Melbourne, Australia. <a href="https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2023/86878/V005T06A003/1167130" target="_blank">doi: 10.1115/OMAE2023-104544</a>
 </p>
 <p style="text-align: justify;">
-2.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2022). Response mitigation of floating platform by porous-media tuned liquid dampers, Proceedings of the ASME 2022 41st International Conference on Ocean, Offshore and Arctic Engineering, Hamburg, Germany.
+2.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2022). Response mitigation of floating platform by porous-media tuned liquid dampers, Proceedings of the ASME 2022 41st International Conference on Ocean, Offshore and Arctic Engineering, Hamburg, Germany. <a href="https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2022/85925/V007T08A046/1148039" target="_blank">doi: 10.1115/OMAE2022-79607</a>
 </p>
 <p style="text-align: justify;">
-3.	<strong>Tsao, W.H.</strong> and Kinnas, A.S. (2020). Local study of jet of a fluid sloshing inside a rolling tank. Proceedings of the ASME 39th International Conference on Ocean, Offshore and Arctic Engineering, Fort Lauderdale, USA.
+3.	<strong>Tsao, W.H.</strong> and Kinnas, A.S. (2020). Local study of jet of a fluid sloshing inside a rolling tank. Proceedings of the ASME 39th International Conference on Ocean, Offshore and Arctic Engineering, Fort Lauderdale, USA. <a href="https://asmedigitalcollection.asme.org/OMAE/proceedings-abstract/OMAE2020/84409/V008T08A014/1092955" target="_blank">doi: 10.1115/OMAE2020-18870</a>
 </p>
 <p style="text-align: justify;">
-4.	<strong>Tsao, W.H.</strong> and Kinnas, A.S. (2020). Numerical simulation of fluid sloshing in a rolling tank. 25th SNAME Offshore Symposium, Houston, USA.
+4.	<strong>Tsao, W.H.</strong> and Kinnas, A.S. (2020). Numerical simulation of fluid sloshing in a rolling tank. 25th SNAME Offshore Symposium, Houston, USA. <a href="https://onepetro.org/SNAMETOS/proceedings-abstract/TOS20/1-TOS20/D013S004R002/3740" target="_blank">SNAME-TOS-2020-014</a>
 </p>
 <p style="text-align: justify;">
 5.	<strong>Tsao, W.H.</strong> (2019). Dynamic characteristics of liquid sloshing in cylindrical tanks filled with porous media. International Conference on Advances in Civil and Ecological Engineering Research, Kaohsiung, Taiwan.
@@ -85,19 +85,19 @@ permalink: /publications/
 
 **Posters & Abstracts**
 <p style="text-align: justify;">
-1.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Computational analysis of wave and current interactions with mangrove forests. American Geophysical Union Fall Meeting, San Francisco, USA.
+1.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Computational analysis of wave and current interactions with mangrove forests. American Geophysical Union Fall Meeting, San Francisco, USA. <a href="/assets/pdf/agu23.pdf" target="_blank">[Poster]</a>
 </p>
 <p style="text-align: justify;">
 2.	Kees, C.E., Schurr, R., <strong>Tsao, W.H.</strong> (2023). Higher-order methods for phase-resolving wave/structure interaction, SIAM Conference on Mathematical and Computational Issues in the Geosciences, Bergen, Norway.
 </p>
 <p style="text-align: justify;">
-3.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Global motions of a floating platform with tuned liquid damper in waves. Engineering Mechanics Institute Conference, Atlanta, USA.
+3.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Global motions of a floating platform with tuned liquid damper in waves. Engineering Mechanics Institute Conference, Atlanta, USA. <a href="https://www.youtube.com/watch?v=YyczDfapx2g" target="_blank">[Presentation]</a>
 </p>
 <p style="text-align: justify;">
 4.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Proteus: High-order methods for wave-structure interactions in coastal and offshore environments. Scientific Computing Around Louisiana, New Orleans, USA.
 </p>
 <p style="text-align: justify;">
-5.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). An improved boundary integral equation method with arbitrary Lagrangian-Eulerian approach for nonlinear wave-bottom interaction problems. American Geophysical Union Fall Meeting, Chicago, USA.
+5.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). An improved boundary integral equation method with arbitrary Lagrangian-Eulerian approach for nonlinear wave-bottom interaction problems. American Geophysical Union Fall Meeting, Chicago, USA. <a href="/assets/pdf/agu22.pdf" target="_blank">[Poster]</a>
 </p>
 <p style="text-align: justify;">
 6.	Kees, C.E., <strong>Tsao, W.H.</strong>, and Schurr, R. (2022). Higher-order methods for phase-resolving wave/structure interaction, 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, USA.
@@ -106,5 +106,5 @@ permalink: /publications/
 7.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). Arbitrary Lagrangian-Eulerian method in finite-element model for nonlinear wave-bottom interaction, 8th Young Coastal Scientists and Engineers Conference-Americas, Pensacola, USA.
 </p>
 <p style="text-align: justify;">
-8.	Kees, C.E., Tovar, E., Schurr, R., and <strong>Tsao, W.H.</strong> (2021). High-performance computational models of non-hydrostatic water waves over complex bathymetry. American Geophysical Union Fall Meeting, New Orleans, USA.
+8.	Kees, C.E., Tovar, E., Schurr, R., and <strong>Tsao, W.H.</strong> (2021). High-performance computational models of non-hydrostatic water waves over complex bathymetry. American Geophysical Union Fall Meeting, New Orleans, USA. <a href="/assets/pdf/agu21.pdf" target="_blank">[Poster]</a>
 </p>
