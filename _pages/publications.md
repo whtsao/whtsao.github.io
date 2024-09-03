@@ -68,13 +68,13 @@ permalink: /publications/
 5.	<strong>Tsao, W.H.</strong> (2019). Dynamic characteristics of liquid sloshing in cylindrical tanks filled with porous media. International Conference on Advances in Civil and Ecological Engineering Research, Kaohsiung, Taiwan.
 </p>
 <p style="text-align: justify;">
-6.	<strong>Tsao, W.H.</strong> and Chang, C.M. (2018). New numerical integration method for dynamic systems with high nonlinearity. The 14th National Conference on Structural Engineering/The 4th National Conference on Earthquake Engineering, Taichung, Taiwan.
+6.	<strong>Tsao, W.H.</strong> and Chang, C.M. (2018). New numerical integration method for dynamic systems with high nonlinearity. The 14th National Conference on Structural Engineering/The 4th National Conference on Earthquake Engineering, Taichung, Taiwan. <a href="/assets/pdf/seee_chinese_version.pdf" target="_blank">[Chinese version paper]</a>
 </p>
 <p style="text-align: justify;">
 7.	<strong>Tsao, W.H.</strong> and Hwang, W.S. (2018). Study on nonlinear sloshing problem. 30th Taiwan SNAME and MOST Symposium, Taipei, Taiwan.
 </p>
 <p style="text-align: justify;">
-8.	<strong>Tsao, W.H.</strong> (2018). Analysis on porous-media tuned liquid damper for vibrational control in flexible structures. Proceedings of the 40th Ocean Engineering Conference, Kaohsiung, Taiwan.
+8.	<strong>Tsao, W.H.</strong> (2018). Analysis on porous-media tuned liquid damper for vibrational control in flexible structures. Proceedings of the 40th Ocean Engineering Conference, Kaohsiung, Taiwan. <a href="/assets/pdf/coe_chinese_version.pdf" target="_blank">[Chinese version paper]</a>
 </p>
 <p style="text-align: justify;">
 9.	<strong>Tsao, W.H.</strong> and Hwang, W.S. (2017). The analysis of regularized boundary integral methods for a non-smooth body in potential flows. 29th Taiwan SNAME and MOST Symposium, Taipei, Taiwan.
