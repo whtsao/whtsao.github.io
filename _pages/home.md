@@ -15,14 +15,14 @@ feature_row:
   - image_path: /assets/images/models.jpg
     alt: "Modeling"
     title: "Modeling"
-    excerpt: "Waves and flow interacting with dynamic structures, vessels, soil, sediments, vegetation..."
+    excerpt: "Waves, wind, and flow interacting with dynamic structures, vessels, vegetation..."
     url: "/research"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/fsi.jpg
     alt: "Engineering"
     title: "Engineering"
-    excerpt: "Quantitative analysis of natural and engineered systems with a particular focus on water, soil, and vegetation interactions..."
+    excerpt: "Quantitative analysis of floaters, civil structures, and natural systems with a particular focus on water, soil, and vegetation interactions..."
     url: "/projects"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

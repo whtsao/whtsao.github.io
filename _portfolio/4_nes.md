@@ -12,3 +12,5 @@ When a structure is subjected to extreme transient loading, such as blast loadin
 </p>
 
 ![Diagram of NTMD](/assets/images/nes_shaking_table_1.png)
+
+![Diagram of NTMD](/assets/images/nes_shaking_table_2.png)

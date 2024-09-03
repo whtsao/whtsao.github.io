@@ -5,6 +5,11 @@ collection: publications
 permalink: /publications/
 ---
 
+**Patents**
+<p style="text-align: justify;">
+1.	Tuned Liquid Dampers with Porous Media, <strong>Japan Patent</strong> #3217982, issued August 22, 2018; <strong>China Patent</strong> #ZL20182 0503987.2, issued January 18, 2019; <strong>Taiwan Patent</strong> #M564058, issued July 21, 2018.
+</p>
+
 **Journal Articles**
 <p style="text-align: justify;">
 1.	<strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2024). High-order phase-resolving CutFEM for wave transformation over natural shorelines, Journal of Waterway Port Coastal and Ocean Engineering, (Under review).
@@ -102,9 +107,4 @@ permalink: /publications/
 </p>
 <p style="text-align: justify;">
 8.	Kees, C.E., Tovar, E., Schurr, R., and <strong>Tsao, W.H.</strong> (2021). High-performance computational models of non-hydrostatic water waves over complex bathymetry. American Geophysical Union Fall Meeting, New Orleans, USA.
-</p>
-
-**Patents**
-<p style="text-align: justify;">
-1.	Tuned Liquid Dampers with Porous Media, <strong>Japan Patent</strong> #3217982, issued August 22, 2018; <strong>China Patent</strong> #ZL20182 0503987.2, issued January 18, 2019; <strong>Taiwan Patent</strong> #M564058, issued July 21, 2018.
 </p>
