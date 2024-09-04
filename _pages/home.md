@@ -5,12 +5,12 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/ck-home-page-feature.jpg
+  overlay_image: /assets/images/wt-home-page-feature.jpg
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  Physics-based modeling and computational methods for marine, coastal, and offshore engineering. <bf />
+  Specializing in physics-based modeling and engineering analysis for marine, coastal, and offshore engineering. <bf />
 feature_row:
   - image_path: /assets/images/home-modeling.png
     alt: "Modeling"
