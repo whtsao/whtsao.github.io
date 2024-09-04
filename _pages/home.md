@@ -26,7 +26,7 @@ feature_row:
     url: "/projects"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
-  - image_path: /assets/images/proteus.jpg
+  - image_path: /assets/images/software.png
     alt: "Software"
     title: "Software"
     excerpt: "Computational toolkits, including Python, Fortran, and Matlab packages with a focus on wave-structure interaction modeling."
