@@ -107,7 +107,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@willtsao2967"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=MAYvRagAAAAJ&hl=en"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
@@ -115,23 +115,21 @@ author:
 
 
 # Site Footer
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/whtsao/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/whtsao"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/@willtsao2967"
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=MAYvRagAAAAJ&hl=en"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/chris.kees.75"
+#footer:
+#  links:
+#    - label: "LinkedIn"
+#      icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/whtsao/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/whtsao"
+#    - label: "YouTube"
+#      icon: "fab fa-fw fa-youtube"
+#      url: "https://www.youtube.com/@willtsao2967"
+#    - label: "Google Scholar"
+#      icon: "fab fa-fw fa-google-scholar"
+#      url: "https://scholar.google.com/citations?user=MAYvRagAAAAJ&hl=en"
+
 
 
 # Reading Files
