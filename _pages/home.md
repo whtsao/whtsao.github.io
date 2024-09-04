@@ -10,26 +10,26 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  Specializing in physics-based modeling and engineering analysis for marine, coastal, and offshore engineering. <bf />
+  Specializing in physics-based modeling, analytical engineering, and software development for marine, coastal, and offshore environments. <bf />
 feature_row:
   - image_path: /assets/images/home-modeling.png
     alt: "Modeling"
     title: "Modeling"
-    excerpt: "Quantitative analysis of the interactions between waves, wind, and flow with both fixed and floating structures, vessels, and natural environments."
+    excerpt: "Numerical modeling and quantitative analysis of water-related systems."
     url: "/research"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/home-engineering.png
     alt: "Engineering"
     title: "Engineering"
-    excerpt: "Design of marine structures and shorelines by conducting metocean analyses and applying relevant engineering codes and standards."
+    excerpt: "Design of marine, coastal, and offshore structures."
     url: "/projects"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/home-software.png
     alt: "Software"
     title: "Software"
-    excerpt: "Computational toolkits, including Python, Fortran, and Matlab packages with a focus on wave-structure interaction modeling."
+    excerpt: "Python, Fortran, and Matlab computational toolkits."
     url: "/software"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
