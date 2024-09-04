@@ -15,7 +15,7 @@ permalink: /publications/
 1.	<strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2024). High-order phase-resolving CutFEM for wave transformation over natural shorelines, Journal of Waterway Port Coastal and Ocean Engineering, (Under review).
 </p>
 <p style="text-align: justify;">
-2.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, Engineering Analysis with Boundary Elements, 157, 326-341. <a href="https://doi.org/10.1016/j.enganabound.2023.09.019" target="_blank">doi: 10.1016/j.enganabound.2023.09.019</a>
+2.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, <em>Engineering Analysis with Boundary Elements</em>, 157, 326-341. <a href="https://doi.org/10.1016/j.enganabound.2023.09.019" target="_blank">doi: 10.1016/j.enganabound.2023.09.019</a>
 </p>
 <p style="text-align: justify;">
 3.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Response mitigation of floating platform by porous-media-tuned liquid dampers, Journal of Ocean, Offshore and Arctic Engineering, 145(5), 051203. <a href="https://doi.org/10.1115/1.4062292" target="_blank">doi: 10.1115/1.4062292</a>
