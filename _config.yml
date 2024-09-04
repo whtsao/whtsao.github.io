@@ -107,7 +107,7 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/@willtsao2967"
     - label: "Google Scholar"
-      icon: "<i class='ai ai-google-scholar-square'></i>"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MAYvRagAAAAJ&hl=en"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
