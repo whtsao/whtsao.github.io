@@ -19,7 +19,6 @@ I am an Engineering Intern (License #EI.0035686, Louisiana) and a member of the 
 </p>
 
 <p style="text-align: justify;">
-I love taking on projects that spark inspiration and creativity. Whether it's coding/scripting for data analysis, building automated systems, or doing some hands-on crafting. I love sports. I am a volunteer coach for youth basketball.
+I enjoy taking on creative projects. I love sports. I am a volunteer coach for youth basketball.
 </p>
 
-<a href="https://scholar.google.com/citations?user=MAYvRagAAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a>
