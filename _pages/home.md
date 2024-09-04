@@ -5,12 +5,14 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/wt-home-page-feature.jpg
+  overlay_image: /assets/images/home-page-feature.jpg
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  Specializing in physics-based modeling, analytical engineering, and software development for marine, coastal, and offshore environments
+  <span style="color: #1F3075;">Specializing in physics-based modeling, analytical engineering, and software development for marine, coastal, and offshore environments</span>
+#excerpt: >
+#  Specializing in physics-based modeling, analytical engineering, and software development for marine, coastal, and offshore environments
 feature_row:
   - image_path: /assets/images/home-modeling.png
     alt: "Modeling"
