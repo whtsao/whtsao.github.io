@@ -1,6 +1,6 @@
 ---
 title: "Sloshing"
-excerpt: "Characterize sloshing phenomenon."
+excerpt: "Analyze 2D and 3D sloshing behavior using advanced and reduced-order computational models."
 header:
   image: /assets/images/sloshing.png
   teaser: /assets/images/sloshing.png

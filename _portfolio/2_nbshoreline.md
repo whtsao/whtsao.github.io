@@ -1,6 +1,6 @@
 ---
 title: "Natural Shoreline Design"
-excerpt: "Studying shoreline protection and ecosystem design through high-performance modeling of mangrove forests in waves."
+excerpt: "Design ecosystem and natural shoreline through high-performance numerical models."
 header:
   image: /assets/images/mangrove_sim.png
   teaser: /assets/images/mangrove_sim.png

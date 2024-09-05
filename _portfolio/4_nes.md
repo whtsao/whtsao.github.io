@@ -1,6 +1,6 @@
 ---
 title: "Nonlinear Tuned Mass Damper"
-excerpt: "Developing nonlinear tuned mass damping through curved track design for damper motion."
+excerpt: "Optimize track curvature for a nonlinear tuned mass damper under extreme loading conditions."
 header:
   image: /assets/images/nes.png
   teaser: assets/images/nes.png

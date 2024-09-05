@@ -1,6 +1,6 @@
 ---
 title: "Boundary Element Methods"
-excerpt: "Developing advanced numerical techniques for regularizing singularities and near-singularities in the boundary integral equation."
+excerpt: "Develop advanced regularization techniques for solving boundary integral equations."
 header:
   image: /assets/images/bem.png
   teaser: /assets/images/bem.png

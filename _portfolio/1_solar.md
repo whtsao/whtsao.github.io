@@ -1,6 +1,6 @@
 ---
 title: "Solar Energy Deployment"
-excerpt: "Creating sustainable environments for floating and terrestrial solar energy farms."
+excerpt: "Create sustainable environments for floating and terrestrial solar energy farms."
 header:
   image: /assets/images/floating_panel.png
   teaser: /assets/images/floating_panel.png

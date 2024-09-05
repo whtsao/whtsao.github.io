@@ -1,6 +1,6 @@
 ---
 title: "Tuned Liquid Damper with Porous Media"
-excerpt: "Enhancing tuned liquid damper performance by incorporating porous media for increased sloshing damping."
+excerpt: "Integrate porous media into tuned liquid dampers to improve structural vibration control."
 header:
   image: /assets/images/sloshing_porous.png
   teaser: assets/images/sloshing_porous.png
