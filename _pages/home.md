@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/home-modeling.png
     alt: "Modeling"
     title: "Modeling"
-    excerpt: "Numerical modeling and quantitative analysis of water-related systems."
+    excerpt: "Numerical modeling of water-related systems."
     url: "/research"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -32,7 +32,7 @@ feature_row:
   - image_path: /assets/images/home-software.png
     alt: "Software"
     title: "Software"
-    excerpt: "Python, Fortran, and Matlab computational toolkits."
+    excerpt: "Python/Fortran/Matlab computational toolkits."
     url: "/software"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
