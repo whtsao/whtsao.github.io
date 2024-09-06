@@ -1,6 +1,6 @@
 ---
 title: "Sloshing"
-excerpt: "Analyze 2D and 3D sloshing behavior using advanced and reduced-order computational models."
+excerpt: "Analyze 2D/3D sloshing behavior using sophisticated and reduced-order models."
 header:
   image: /assets/images/sloshing.png
   teaser: /assets/images/sloshing.png
