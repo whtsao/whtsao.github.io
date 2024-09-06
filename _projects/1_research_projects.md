@@ -5,7 +5,7 @@ collection: projects-research
 permalink: /projects-research/
 excerpt: "Focus on the understanding of Fluid-structure interactions through numerical and experimental approaches."
 header:
-  image: /assets/images/projects_research.png
-  teaser: /assets/images/projects_research.png
+  image: /assets/images/lsu_tank.png
+  teaser: /assets/images/lsu_tank.png
 share: false
 ---
