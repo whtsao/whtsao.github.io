@@ -10,4 +10,4 @@ header:
 share: false
 ---
 
-- [Test Sub-Project](/projects-research/1_digitaltwin/)
+- [Test Sub-Project](./1_digitaltwin/)
