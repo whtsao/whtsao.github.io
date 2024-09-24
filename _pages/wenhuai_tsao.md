@@ -7,7 +7,7 @@ toc: false
 ---
 
 <p style="text-align: justify;">
-I am a Coastal Marine Designer at <a href="https://www.cowi.com/north-america/" target="_blank">COWI</a> with a diverse background encompassing both academic institutions and engineering companies. My expertise ranges from small-scale projects involving numerical simulations and experimental verification/validation of structural and hydro-dynamics to multi-million dollar projects on coastal ecosystem design, floater and mooring system dynamic analysis, and offshore renewable energy development. I consider myself a <strong>Specialist</strong> in structural, coastal, and marine systems design, a digital-twin <strong>Modeler</strong>, and a research/engineering <strong>Coach</strong>.
+I am a Coastal Marine Designer at <a href="https://www.cowi.com/north-america/" target="_blank">COWI</a> with a diverse background encompassing both academic institutions and engineering companies. My expertise ranges from small-scale projects involving numerical simulations and experimental verification/validation of structural and hydro-dynamics to multi-million dollar projects on coastal ecosystem design, floater and mooring system dynamic analysis, and offshore renewable energy development. I consider myself a specialist in structural, coastal, and marine systems design, a digital-twin modeler, and a research/engineering coach.
 </p>
 
 <p style="text-align: justify;">
