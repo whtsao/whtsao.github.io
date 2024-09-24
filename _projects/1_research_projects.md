@@ -10,12 +10,15 @@ header:
 share: false
 ---
 
-- [Digital Twins for Agrivoltaic and Floating Solar Farms to Support Design Exploration, Deployment, and Multi-Objective Optimization for Setting Best Practices](./1_digitaltwin/)
-- [Utilizing the Sun for a Sustainable Future in Louisiana: A Pilot Solar Deployment Project at LSU](./2_solardeploy/)
-- [Anticipating Threats to Natural Systems (ACTIONS)](./3_mangrove/)
-- [R&D High-Fidelity Computational Tools for Simulating Wave-Streucture Interaction](./4_proteus/)
-- [Theoretical Analysis, Numerical Method and Model Test of Porous Media Tuned Liquid Damper](./5_pmtld/)
-- [R&D and Experimental Verification of Nonlinear Tuned Mass Dampers](./6_nes/)
-- [Nonlinear Sloshing Analysis by Regularized Boundary Integral Methods](./7_sloshing/)
-- [Applications of Regularized Boundary Integral Methods](./8_rbim/)
-- [Numerical Studies on Wakes of a Three-Dimensional Airfoil](./9_airfoilwake/)
+<div class="project-links-flex">
+  <a href="./1_digitaltwin/">Digital Twins for Agrivoltaic and Floating Solar Farms...</a>
+  <a href="./2_solardeploy/">Utilizing the Sun for a Sustainable Future in Louisiana...</a>
+  <a href="./3_mangrove/">Anticipating Threats to Natural Systems (ACTIONS)</a>
+  <a href="./4_proteus/">R&D High-Fidelity Computational Tools...</a>
+  <a href="./5_pmtld/">Theoretical Analysis, Numerical Method...</a>
+  <a href="./6_nes/">R&D and Experimental Verification...</a>
+  <a href="./7_sloshing/">Nonlinear Sloshing Analysis by...</a>
+  <a href="./8_rbim/">Applications of Regularized Boundary...</a>
+  <a href="./9_airfoilwake/">Numerical Studies on Wakes...</a>
+</div>
+
