@@ -209,13 +209,13 @@ collections:
     permalink: /:collection/:path/
   projects-research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /projects-research/:path/
   projects-engineering:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /projects-engineering/:path/  
   projects-tinkering:
     output: true
-    permalink: /:collection/:path/  
+    permalink: /projects-tinkering/:path/  
 
 # Defaults
 defaults:
@@ -253,7 +253,8 @@ defaults:
       path: ""
       type: projects-research
     values:
-      layout: single
+      #layout: single
+      layout: collection-research
       author_profile: false
       share: true
       comments: true   
@@ -262,7 +263,8 @@ defaults:
       path: ""
       type: projects-engineering
     values:
-      layout: single
+      #layout: single
+      layout: collection-engineering
       author_profile: false
       share: true
       comments: true   
@@ -271,7 +273,8 @@ defaults:
       path: ""
       type: projects-tinkering
     values:
-      layout: single
+      #layout: single
+      layout: collection-tinkering
       author_profile: false
       share: true
       comments: true    
