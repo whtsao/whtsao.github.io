@@ -1,6 +1,6 @@
 ---
 title: Research Projects
-layout: collection
+layout: single #collection
 collection: projects-research
 permalink: /projects-research/
 excerpt: "Focus on the physics of fluid-structure interactions through numerical and experimental approaches."
