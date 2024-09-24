@@ -1,6 +1,6 @@
 ---
 title: "Tinkering Projects"
-layout: collection
+layout: single #collection
 collection: projects-tinkering
 permalink: /projects/projects-tinkering/
 excerpt: "Innovative solutions through hands-on tinkering."

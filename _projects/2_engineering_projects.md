@@ -1,6 +1,6 @@
 ---
 title: "Engineering Projects"
-layout: collection
+layout: single #collection
 collection: projects-engineering
 permalink: /projects/projects-engineering/
 excerpt: "Focused on advanced system design and data engineering pipelines for practical marine and coastal applications."
@@ -9,3 +9,7 @@ header:
   teaser: /assets/images/belleville_design.png
 share: false
 ---
+
+- [Mooring Analysis](./1_mooring/)
+- [Metocean Analysis](./2_metocean/)
+- [Shoreline Protection](./3_shorelineprotection/)
