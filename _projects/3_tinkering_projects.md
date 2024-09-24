@@ -2,7 +2,7 @@
 title: "Tinkering Projects"
 layout: single #collection
 collection: projects-tinkering
-permalink: /projects/projects-tinkering/
+permalink: /projects-tinkering/
 excerpt: "Innovative solutions through hands-on tinkering."
 header:
   image: /assets/images/ship_experiment.png

@@ -2,7 +2,7 @@
 title: "Engineering Projects"
 layout: single #collection
 collection: projects-engineering
-permalink: /projects/projects-engineering/
+permalink: /projects-engineering/
 excerpt: "Focused on advanced system design and data engineering pipelines for practical marine and coastal applications."
 header: 
   image: /assets/images/belleville_design.png
