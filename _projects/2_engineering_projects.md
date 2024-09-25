@@ -10,6 +10,8 @@ header:
 share: false
 ---
 
-- [Mooring Analysis](./1_mooring/)
-- [Metocean Analysis](./2_metocean/)
-- [Shoreline Protection](./3_shorelineprotection/)
+<ul class="project-links-flex">
+  <li><a href="./1_mooring/">Mooring Analysis</a></li>
+  <li><a href="./2_metocean/">Metocean Analysis</a></li>
+  <li><a href="./3_shorelineprotection/">Shoreline Protection</a></li>
+</ul>

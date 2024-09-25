@@ -9,3 +9,7 @@ header:
   teaser: /assets/images/ship_experiment.png
 share: false
 ---
+
+<ul class="project-links-flex">
+  <li><a href="./1_gensignals/">Signal Generator</a></li>
+</ul>
