@@ -12,10 +12,10 @@ permalink: /publications/
 
 **Journal Articles**
 <p style="text-align: justify;">
-1.	<strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2025). High-order phase-resolving CutFEM for wave transformation over natural shorelines, Journal of Waterway Port Coastal and Ocean Engineering, 151(3), 04025006. <a href="https://doi.org/10.1061/JWPED5.WWENG-2130" target="_blank">doi: 10.1061/JWPED5.WWENG-2130</a>
+1.	<strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2025). High-order phase-resolving CutFEM for wave transformation over natural shorelines, </em>Journal of Waterway Port Coastal and Ocean Engineering</em>, 151(3), 04025006. <a href="https://doi.org/10.1061/JWPED5.WWENG-2130" target="_blank">doi: 10.1061/JWPED5.WWENG-2130</a>
 </p>
 <p style="text-align: justify;">
-2.	<strong>Tsao, W.H.</strong>, Hwang, W.S., Huang, C.W., Huang, Y.L. (2025). Physics-based reduced-order modeling and experimental verification of a nonlinear porous-media tuned liquid damper for seismic vibration control, Ocean Engineering, 337, 121905. <a href="https://doi.org/10.1016/j.oceaneng.2025.121905" target="_blank">doi: 10.1016/j.oceaneng.2025.121905</a>
+2.	<strong>Tsao, W.H.</strong>, Hwang, W.S., Huang, C.W., Huang, Y.L. (2025). Physics-based reduced-order modeling and experimental verification of a nonlinear porous-media tuned liquid damper for seismic vibration control, </em>Ocean Engineering</em>, 337, 121905. <a href="https://doi.org/10.1016/j.oceaneng.2025.121905" target="_blank">doi: 10.1016/j.oceaneng.2025.121905</a>
 </p>
 <p style="text-align: justify;">
 3.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, <em>Engineering Analysis with Boundary Elements</em>, 157, 326-341. <a href="https://doi.org/10.1016/j.enganabound.2023.09.019" target="_blank">doi: 10.1016/j.enganabound.2023.09.019</a>
