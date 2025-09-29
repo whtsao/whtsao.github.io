@@ -10,7 +10,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  <span style="color: #1F3075;">Specializing in physics-based modeling,<br />analytical engineering, and software development<br />for marine, coastal, and offshore environments</span>
+  <span style="color: #1F3075;">Building sustainable and resilient coastal communities<br />through hybrid physical–digital twin technologies</span>
 #  <span style="color: #1F3075;">Specializing in physics-based modeling, analytical engineering, and software development for marine, coastal, and offshore environments</span>
 #excerpt: >
 #  Specializing in physics-based modeling, analytical engineering, and software development for marine, coastal, and offshore environments
