@@ -11,7 +11,7 @@ share: false
 ---
 
 <ul class="project-links-flex">
-  <li><a href="./1_digitaltwin/">Digital Twins for Agrivoltaic and Floating Solar Farms to Support Design Exploration, Deployment, and Multi-Objective Optimization for Setting Best Practices</a></li>
+  <li><a href="./1_solardt/">Digital Twins for Agrivoltaic and Floating Solar Farms to Support Design Exploration, Deployment, and Multi-Objective Optimization for Setting Best Practices</a></li>
   <li><a href="./2_solardeploy/">Utilizing the Sun for a Sustainable Future in Louisiana: A Pilot Solar Deployment Project at LSU</a></li>
   <li><a href="./3_mangrove/">Anticipating Threats to Natural Systems (ACTIONS)</a></li>
   <li><a href="./4_proteus/">R&D High-Fidelity Computational Tools for Simulating Wave-Structure Interaction</a></li>
