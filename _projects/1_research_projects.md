@@ -1,9 +1,9 @@
 ---
-title: Research Projects
+title: "Research Projects"
 layout: single #collection
 collection: projects-research
 permalink: /projects-research/
-excerpt: "Focus on the physics of fluid-structure interactions through numerical and experimental approaches."
+excerpt: "Building Resilient and Sustainable Coastal Communities Through Digital Twin Technology."
 header:
   image: /assets/images/lsu_tank.png
   teaser: /assets/images/lsu_tank.png

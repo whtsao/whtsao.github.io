@@ -3,7 +3,7 @@ title: "Tinkering Projects"
 layout: single #collection
 collection: projects-tinkering
 permalink: /projects-tinkering/
-excerpt: "Innovative solutions through hands-on tinkering."
+excerpt: "Developing Innovative Solutions Through Hands-On Tinkering."
 header:
   image: /assets/images/ship_experiment.png
   teaser: /assets/images/ship_experiment.png

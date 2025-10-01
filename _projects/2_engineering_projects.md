@@ -3,7 +3,7 @@ title: "Engineering Projects"
 layout: single #collection
 collection: projects-engineering
 permalink: /projects-engineering/
-excerpt: "Focused on advanced system design and data engineering pipelines for practical marine and coastal applications."
+excerpt: "Advancing System Design and Engineering Pipelines in Marine and Coastal Practice."
 header: 
   image: /assets/images/belleville_design.png
   teaser: /assets/images/belleville_design.png
