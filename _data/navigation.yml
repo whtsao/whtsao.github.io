@@ -21,17 +21,8 @@ foo:
 main:
   - title: "About"
     url: /wenhuai_tsao/
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Projects"
     url: /projects/
-    children:
-      - title: "Research Projects"
-        url: /projects-research/
-      - title: "Engineering Projects"
-        url: /projects-engineering/
-      - title: "Tinkering Projects"
-        url: /projects-tinkering/
   - title: "Publications"
     url: /publications/
   - title: "Software"
