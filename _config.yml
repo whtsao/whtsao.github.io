@@ -231,50 +231,15 @@ defaults:
       comments: false
       sidebar:
         nav: "about"
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _projects
-  - scope:
-      path: ""
-      type: projects
+      type: research
     values:
       layout: single
       author_profile: false
       share: true
       comments: true   
-  # _projects-research
-  - scope:
-      path: ""
-      type: projects-research
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comments: true   
-  # _projects-engineering
-  - scope:
-      path: ""
-      type: projects-engineering
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comments: true   
-  # _projects-tinkering
-  - scope:
-      path: ""
-      type: projects-tinkering
-    values:
-      layout: single
-      author_profile: false
-      share: true
-      comments: true    
   # _publications
   - scope:
       path: ""

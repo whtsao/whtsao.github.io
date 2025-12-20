@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Research
 layout: collection
-collection: projects
-permalink: /projects/
+collection: research
+permalink: /research/
 entries_layout: grid
 classes: wide
 ---
