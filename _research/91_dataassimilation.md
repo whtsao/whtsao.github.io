@@ -1,14 +1,16 @@
 ---
-title: "Natural Shoreline Design"
-excerpt: "Design ecosystem and natural shoreline through high-performance numerical models."
+title: "Digital Reconstruction"
+excerpt: "Environmental and structural data assimilation."
 header:
-  image: /assets/images/mangrove_sim.png
-  teaser: /assets/images/mangrove_sim.png
+#  image: /assets/images/mangrove_lidar.png
+  teaser: /assets/images/mangrove_lidar.png
 share: false
 ---
 
 <p style="text-align: justify;">
-We present the implementation of a high-order phase-resolving Cut Finite Element Method (CutFEM) to simulate the hydrodynamic features within an artificial mangrove forest caused by wave and current based on the incompressible two-phase Navier-Stokes model. The key advantage of CutFEM is that the fluid phase is fully resolved around the solid phase. This enables precise replication of the free-surface deformation and hydrodynamic drag, particularly for waves strongly interacting with the intricate prop roots of mangrove trees. Additionally, the present method employs the equivalent polynomial to compute the integration on the embedded surface with Heaviside and Dirac distributions. No explicit generation of cut cell meshes, adaptive quadrature, or local refinement is required. Hence, it uses the same number of degrees of freedom as the underlying conforming Galerkin method on the fixed background mesh. The classical FEM can be upgraded since the same element assembly structures are used. We've characterized different components of the hydrodynamic drag induced by the mangrove forest. The reduced-order model accounts for the equivalent wave damping is further established to replicate the wave attenuation. The numerical results and experimental measurements are compared. The results show that CutFEM is robust, accurate, and efficient for solving complex fluid-structure interactions. This research not only offers a convenient method for upgrading existing finite element codes but also benefits practical design applications.
+Louisiana’s coastal regions face increasing threats from hurricanes, storm surge, and sea-level rise, demanding innovative strategies to enhance resilience and sustainability. Natural shorelines play a critical role in mitigating environmental loads and stabilizing sediments. However, their dynamic environmental and structural characteristics remain poorly quantified. Hence, the predictive capabilities in coastal management and design are limited.
+This project aims to develop a digital reconstruction framework for Louisiana’s natural shorelines through environmental and structural data assimilation. Using the open-source, high-fidelity computational toolkit Proteus, the team will assimilate real-world oceanographic and meteorological data (wind, wave, and current) and structural information (geometry and material properties) to replicate realistic coastal conditions. The framework will be validated through laboratory-scale experiments and field observations. A pilot digital twin prototype will be developed to enable real-time monitoring and high-fidelity simulation of shoreline performance under extreme climate events.
+This project will establish comprehensive environmental and structural databases, open-source computational tools, and student training opportunities in numerical modeling and field-based research. It directly supports the FIRST Louisiana 2030 priorities in Coastal Restoration and Resilience & Disaster Recovery.
 </p>
 
 ![Diagram of LiDAR forest](/assets/images/mangrove_lidar.png)

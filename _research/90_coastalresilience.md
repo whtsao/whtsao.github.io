@@ -1,14 +1,14 @@
 ---
-title: "Natural Shoreline Design"
-excerpt: "Design ecosystem and natural shoreline through high-performance numerical models."
+title: "Building Resilient Coastal Communities"
+excerpt: "Resilient coastal communities with natural shorelines."
 header:
-  image: /assets/images/mangrove_sim.png
+#  image: /assets/images/mangrove_sim.png
   teaser: /assets/images/mangrove_sim.png
 share: false
 ---
 
 <p style="text-align: justify;">
-We present the implementation of a high-order phase-resolving Cut Finite Element Method (CutFEM) to simulate the hydrodynamic features within an artificial mangrove forest caused by wave and current based on the incompressible two-phase Navier-Stokes model. The key advantage of CutFEM is that the fluid phase is fully resolved around the solid phase. This enables precise replication of the free-surface deformation and hydrodynamic drag, particularly for waves strongly interacting with the intricate prop roots of mangrove trees. Additionally, the present method employs the equivalent polynomial to compute the integration on the embedded surface with Heaviside and Dirac distributions. No explicit generation of cut cell meshes, adaptive quadrature, or local refinement is required. Hence, it uses the same number of degrees of freedom as the underlying conforming Galerkin method on the fixed background mesh. The classical FEM can be upgraded since the same element assembly structures are used. We've characterized different components of the hydrodynamic drag induced by the mangrove forest. The reduced-order model accounts for the equivalent wave damping is further established to replicate the wave attenuation. The numerical results and experimental measurements are compared. The results show that CutFEM is robust, accurate, and efficient for solving complex fluid-structure interactions. This research not only offers a convenient method for upgrading existing finite element codes but also benefits practical design applications.
+Louisiana’s coast is constantly changing and is among the most threatened in the United States, facing rapid land loss, extreme storms, and rising seas. Natural shorelines often include mangroves, which provide critical protection by mitigating environmental loads and stabilizing sediments. Most early studies have considered only a single forcing mechanism at a time; coupled hydro- and aero-dynamic effects remain rarely studied and less understood. This project will address this gap by developing and validating both advanced computational and simpler surrogate models to describe mangrove-hurricane interactions. The overarching vision is to establish the foundation for a digital twin of Louisiana’s natural shorelines that can simulate and predict the performance of coastal protection functions under extreme climate scenarios.
 </p>
 
 ![Diagram of LiDAR forest](/assets/images/mangrove_lidar.png)

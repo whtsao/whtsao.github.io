@@ -94,9 +94,6 @@ author:
   bio              : "Assistant Professor"
   location         : "Lake Charles, LA, USA"
   links:
-#    - label: "Made Mistakes"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://mademistakes.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/whtsao/"
@@ -109,28 +106,6 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=MAYvRagAAAAJ&hl=en"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/chris.kees.75"
-
-
-# Site Footer
-#footer:
-#  links:
-#    - label: "LinkedIn"
-#      icon: "fab fa-fw fa-linkedin"
-#      url: "https://www.linkedin.com/in/whtsao/"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/whtsao"
-#    - label: "YouTube"
-#      icon: "fab fa-fw fa-youtube"
-#      url: "https://www.youtube.com/@willtsao2967"
-#    - label: "Google Scholar"
-#      icon: "fab fa-fw fa-google-scholar"
-#      url: "https://scholar.google.com/citations?user=MAYvRagAAAAJ&hl=en"
-
-
 
 # Reading Files
 include:
@@ -192,10 +167,7 @@ collections:
   about:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  projects:
+  research:
     output: true
     permalink: /:collection/:path/  
   publications:
@@ -207,15 +179,6 @@ collections:
   contact:
     output: true
     permalink: /:collection/:path/
-  projects-research:
-    output: true
-    permalink: /:collection/:path/
-  projects-engineering:
-    output: true
-    permalink: /:collection/:path/  
-  projects-tinkering:
-    output: true
-    permalink: /:collection/:path/  
 
 # Defaults
 defaults:
