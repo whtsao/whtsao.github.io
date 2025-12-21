@@ -2,8 +2,8 @@
 title: "Sloshing"
 excerpt: "Analyze 2D/3D sloshing behavior using sophisticated and reduced-order models"
 header:
-#  image: /assets/images/sloshing.png
-  teaser: /assets/images/sloshing.png
+#  image: /assets/images/research/sloshing.png
+  teaser: /assets/images/research/sloshing.png
 share: false
 ---
 

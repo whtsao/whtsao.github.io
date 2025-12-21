@@ -2,8 +2,8 @@
 title: "Data Assimilation "
 excerpt: "Reconstructing the digital world with realistic environmental and structural data"
 header:
-#  image: /assets/images/mangrove_lidar.png
-  teaser: /assets/images/mangrove_lidar.png
+#  image: /assets/images/research/mangrove_lidar.png
+  teaser: /assets/images/research/mangrove_lidar.png
 share: false
 ---
 

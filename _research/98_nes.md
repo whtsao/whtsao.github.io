@@ -2,8 +2,8 @@
 title: "Nonlinear Tuned Mass Damper"
 excerpt: "Optimize track curvature for a nonlinear tuned mass damper under extreme loading conditions"
 header:
-#  image: /assets/images/nes.png
-  teaser: assets/images/nes.png
+#  image: /assets/images/research/nes.png
+  teaser: assets/images/research/nes.png
 share: false
 ---
 

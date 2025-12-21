@@ -2,8 +2,8 @@
 title: "Floating City Digital Twin"
 excerpt: "R&D on climate-resilient floating infrastructure through a digital twin framework"
 header:
-#  image: /assets/images/home-page-feature.jpg
-  teaser: /assets/images/home-page-feature.jpg
+#  image: /assets/images/research/fcdt.jpg
+  teaser: /assets/images/research/fcdt.jpg
 share: false
 ---
 

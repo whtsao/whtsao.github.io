@@ -2,8 +2,8 @@
 title: "Building Resilient Coastal Communities"
 excerpt: "From mangrove digital twins to resilient coastal protection"
 header:
-#  image: /assets/images/hurricane_hit_community.png
-  teaser: /assets/images/hurricane_hit_community.png
+#  image: /assets/images/research/hurricane_hit_community.png
+  teaser: /assets/images/research/hurricane_hit_community.png
 share: false
 ---
 

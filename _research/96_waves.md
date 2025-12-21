@@ -2,8 +2,8 @@
 title: "Water Waves"
 excerpt: "Develop high-fidelity non-hydrostatic computational models of water waves over complex bathymetry"
 header:
-#  image: /assets/images/breakwave.png
-  teaser: /assets/images/breakwave.png
+#  image: /assets/images/research/breakwave.png
+  teaser: /assets/images/research/breakwave.png
 share: false
 ---
 
