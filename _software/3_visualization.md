@@ -7,7 +7,6 @@ header:
 share: false
 ---
 
-**Description**
 <p style="text-align: justify;">
 Create HDF5 and XMF files for visualization through ParaView.
 </p>
