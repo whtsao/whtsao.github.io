@@ -3,14 +3,27 @@ title: " "
 layout: splash
 permalink: /
 hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/home-page-feature.jpg
+
+#header:
+#  overlay_color: "#5e616c"
+#  overlay_image: /assets/images/main.png
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 #excerpt: >
 #  <span style="color: #1F3075;">Building sustainable and resilient coastal communities<br />through hybrid physical–digital twin technologies</span>
+
+
+# Optional: makes the splash content span wider
+classes: wide
+
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/main.png
+  overlay_filter: 0.25   # optional, makes text more readable if you add excerpt later
+
+
+
 
 feature_row:
   - image_path: /assets/images/home-modeling.png
@@ -37,3 +50,21 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+
+#feature_row:
+#  - image_path: /assets/images/home-modeling.gif
+#    alt: "Modeling"
+#    title: "Modeling"
+#    excerpt: "Numerical modeling of water-related systems."
+#  - image_path: /assets/images/home-engineering.gif
+#    alt: "Engineering"
+#    title: "Engineering"
+#    excerpt: "Design of marine, coastal, and offshore structures."
+#  - image_path: /assets/images/home-software.gif
+#    alt: "Software"
+#    title: "Software"
+#    excerpt: "Computational toolkits and automated workflows."
+#---
+
+#{% include feature_row %}
