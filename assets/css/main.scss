@@ -1,0 +1,31 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* ===== People page styles ===== */
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); 
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.person-card {
+  text-align: center;
+}
+
+.person-photo {
+  width: 120px;  
+  height: 120px;
+  border-radius: 50%; 
+  object-fit: cover; 
+  display: block;
+  margin: 0 auto 0.5rem auto;
+}
+
+.person-name {
+  font-weight: 600;
+}
+

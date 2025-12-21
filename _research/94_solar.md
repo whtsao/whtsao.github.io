@@ -1,9 +1,9 @@
 ---
 title: "Solar Energy Deployment in Louisiana "
-excerpt: "Create sustainable environments for floating and terrestrial solar energy farms"
+excerpt: "Evaluating solar farm feasibility across Louisiana to support energy sustainability"
 header:
-#  image: /assets/images/floating_panel.png
-  teaser: /assets/images/floating_panel.png
+#  image: /assets/images/terrestrial_panel.png
+  teaser: /assets/images/terrestrial_panel.png
 share: false
 ---
 
