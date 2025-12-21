@@ -3,6 +3,19 @@
 
 @import "minimal-mistakes";
 
+
+
+/* Make ONLY the homepage splash hero taller */
+.layout--splash.home .page__hero--overlay {
+  min-height: 70vh;          
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-size: cover;
+  background-position: center;
+}
+
+
+
 /* ===== People page styles ===== */
 
 .people-grid {

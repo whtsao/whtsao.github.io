@@ -51,20 +51,3 @@ feature_row:
 
 {% include feature_row %}
 
-
-#feature_row:
-#  - image_path: /assets/images/home-modeling.gif
-#    alt: "Modeling"
-#    title: "Modeling"
-#    excerpt: "Numerical modeling of water-related systems."
-#  - image_path: /assets/images/home-engineering.gif
-#    alt: "Engineering"
-#    title: "Engineering"
-#    excerpt: "Design of marine, coastal, and offshore structures."
-#  - image_path: /assets/images/home-software.gif
-#    alt: "Software"
-#    title: "Software"
-#    excerpt: "Computational toolkits and automated workflows."
-#---
-
-#{% include feature_row %}
