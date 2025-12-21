@@ -94,26 +94,29 @@ permalink: /publications/
 1.	<strong>Tsao, W.H.</strong> (2026). Building resilient coastal communities with natural shorelines. 30th Annual Joint Engineering Societies Conference, Lafayette, USA.
 </p>
 <p style="text-align: justify;">
-2.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Computational analysis of wave and current interactions with mangrove forests. American Geophysical Union Fall Meeting, San Francisco, USA. <a href="/assets/pdf/agu23.pdf" target="_blank">Poster</a>
+2.	<strong>Tsao, W.H.</strong> (2025). Floating City Digital Twins: The Future of Coastal Resilience and Sustainability. Society of Floating Solutions Singapore, Virtual Webinar. <a href="https://youtu.be/qxBp3dVky6g" target="_blank">Presentation</a>
 </p>
 <p style="text-align: justify;">
-3.	Kees, C.E., Schurr, R., <strong>Tsao, W.H.</strong> (2023). Higher-order methods for phase-resolving wave/structure interaction, SIAM Conference on Mathematical and Computational Issues in the Geosciences, Bergen, Norway.
+3.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Computational analysis of wave and current interactions with mangrove forests. American Geophysical Union Fall Meeting, San Francisco, USA. <a href="/assets/pdf/agu23.pdf" target="_blank">Poster</a>
 </p>
 <p style="text-align: justify;">
-4.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Global motions of a floating platform with tuned liquid damper in waves. Engineering Mechanics Institute Conference, Atlanta, USA. <a href="https://www.youtube.com/watch?v=YyczDfapx2g" target="_blank">Presentation</a>
+4.	Kees, C.E., Schurr, R., <strong>Tsao, W.H.</strong> (2023). Higher-order methods for phase-resolving wave/structure interaction, SIAM Conference on Mathematical and Computational Issues in the Geosciences, Bergen, Norway.
 </p>
 <p style="text-align: justify;">
-5.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Proteus: High-order methods for wave-structure interactions in coastal and offshore environments. Scientific Computing Around Louisiana, New Orleans, USA.
+5.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Global motions of a floating platform with tuned liquid damper in waves. Engineering Mechanics Institute Conference, Atlanta, USA. <a href="https://www.youtube.com/watch?v=YyczDfapx2g" target="_blank">Presentation</a>
 </p>
 <p style="text-align: justify;">
-6.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). An improved boundary integral equation method with arbitrary Lagrangian-Eulerian approach for nonlinear wave-bottom interaction problems. American Geophysical Union Fall Meeting, Chicago, USA. <a href="/assets/pdf/agu22.pdf" target="_blank">Poster</a>
+6.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2023). Proteus: High-order methods for wave-structure interactions in coastal and offshore environments. Scientific Computing Around Louisiana, New Orleans, USA.
 </p>
 <p style="text-align: justify;">
-7.	Kees, C.E., <strong>Tsao, W.H.</strong>, and Schurr, R. (2022). Higher-order methods for phase-resolving wave/structure interaction, 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, USA.
+7.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). An improved boundary integral equation method with arbitrary Lagrangian-Eulerian approach for nonlinear wave-bottom interaction problems. American Geophysical Union Fall Meeting, Chicago, USA. <a href="/assets/pdf/agu22.pdf" target="_blank">Poster</a>
 </p>
 <p style="text-align: justify;">
-8.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). Arbitrary Lagrangian-Eulerian method in finite-element model for nonlinear wave-bottom interaction, 8th Young Coastal Scientists and Engineers Conference-Americas, Pensacola, USA.
+8.	Kees, C.E., <strong>Tsao, W.H.</strong>, and Schurr, R. (2022). Higher-order methods for phase-resolving wave/structure interaction, 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, USA.
 </p>
 <p style="text-align: justify;">
-9.	Kees, C.E., Tovar, E., Schurr, R., and <strong>Tsao, W.H.</strong> (2021). High-performance computational models of non-hydrostatic water waves over complex bathymetry. American Geophysical Union Fall Meeting, New Orleans, USA. <a href="/assets/pdf/agu21.pdf" target="_blank">Poster</a>
+9.	<strong>Tsao, W.H.</strong> and Kees, C.E. (2022). Arbitrary Lagrangian-Eulerian method in finite-element model for nonlinear wave-bottom interaction, 8th Young Coastal Scientists and Engineers Conference-Americas, Pensacola, USA.
+</p>
+<p style="text-align: justify;">
+10.	Kees, C.E., Tovar, E., Schurr, R., and <strong>Tsao, W.H.</strong> (2021). High-performance computational models of non-hydrostatic water waves over complex bathymetry. American Geophysical Union Fall Meeting, New Orleans, USA. <a href="/assets/pdf/agu21.pdf" target="_blank">Poster</a>
 </p>
