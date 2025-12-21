@@ -2,8 +2,8 @@
 title: "HDF5 and XMF creator"
 excerpt: "Create HDF5 and XMF files for visualization through ParaView"
 header:
-#  image: /assets/images/temp.jpg
-  teaser: /assets/images/temp.jpg
+#  image: /assets/images/temp.png
+  teaser: /assets/images/temp.png
 share: false
 ---
 

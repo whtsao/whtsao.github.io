@@ -2,8 +2,8 @@
 title: "BEAUTY"
 excerpt: "Boundary Element Analysis Unified Tool for You"
 header:
-#  image: /assets/images/beauty.jpg
-  teaser: /assets/images/beauty.jpg
+#  image: /assets/images/beauty.png
+  teaser: /assets/images/beauty.png
 share: false
 ---
 

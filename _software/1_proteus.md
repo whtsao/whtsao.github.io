@@ -2,8 +2,8 @@
 title: "Proteus"
 excerpt: "A powerful Python package developed by the US ARMY ERDC for rapid development of computational models and numerical methods"
 header:
-#  image: /assets/images/proteus.jpg
-  teaser: /assets/images/proteus.jpg
+#  image: /assets/images/proteus.png
+  teaser: /assets/images/proteus.png
 share: false
 ---
 
