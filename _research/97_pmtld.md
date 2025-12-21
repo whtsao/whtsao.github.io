@@ -2,7 +2,7 @@
 title: "Tuned Liquid Damper with Porous Media"
 excerpt: "Integrate porous media into tuned liquid dampers to improve structural vibration control"
 header:
-  image: /assets/images/pmtld_shaking_table.png
+#  image: /assets/images/pmtld_shaking_table.png
   teaser: assets/images/pmtld_shaking_table.png
 share: false
 ---

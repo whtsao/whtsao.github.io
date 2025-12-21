@@ -25,6 +25,8 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
+  - title: "People"
+    url: /people/
   - title: "Software"
     url: /software/
   - title: "Contact"

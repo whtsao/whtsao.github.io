@@ -2,7 +2,7 @@
 title: "Boundary Element Methods"
 excerpt: "Develop advanced regularization techniques for solving boundary integral equations"
 header:
-  image: /assets/images/bem.png
+#  image: /assets/images/bem.png
   teaser: /assets/images/bem.png
 share: false
 ---
