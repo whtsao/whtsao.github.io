@@ -35,6 +35,21 @@
   padding-bottom: 0;
 }
 
+/* ===== Align homepage feature_row GIFs so captions line up ===== */
+.home.layout--splash .feature__item img {
+  width: 100%;
+  height: 220px;      /*unify gif height, can be 180/200/240*/
+  object-fit: cover;  /*do not stretch, crop excess */
+  display: block;
+}
+
+/* Mobile: slightly shorter images */
+@media (max-width: 767px) {
+  .home.layout--splash .feature__item img {
+    height: 180px;
+  }
+}
+
 /* ===== People grid styles (used on Lab/People sections) ===== */
 .people-grid {
   display: grid;
