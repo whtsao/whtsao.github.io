@@ -27,8 +27,6 @@ main:
     url: /publications/
   - title: "VISCOR Lab"
     url: /lab/
-  - title: "People"
-    url: /people/
   - title: "Software"
     url: /software/
   - title: "Contact"
