@@ -24,11 +24,11 @@ feature_row:
     alt: "Modeling"
     title: "Modeling"
     excerpt: "Physics-based modeling of coastal and ocean systems"
-  - image_path: /assets/gif/wave_mangrove.gif
+  - image_path: /assets/gif/mangrove_image_cap.gif
     alt: "Digital Twin"
     title: "Digital Twin"
     excerpt: "Virtual representations integrating models and data"
-  - image_path: /assets/gif/temp.gif
+  - image_path: /assets/gif/waves_in_bay.gif
     alt: "Resilience & Sustainability"
     title: "Resilience & Sustainability"
     excerpt: "Enhancing coastal resilience under climate-driven hazards"
