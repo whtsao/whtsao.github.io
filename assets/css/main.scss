@@ -8,38 +8,34 @@
 */
 .home.layout--splash .page__hero,
 .home.layout--splash .page__hero--overlay {
-  min-height: 70vh; /* try 60vh–85vh */
+  min-height: 70vh;            /* keep your original big hero */
   background-size: cover;
   background-position: center;
 }
 
-/* Control vertical spacing in the hero content */
-.home.layout--splash .page__hero .wrapper,
-.home.layout--splash .page__hero--overlay .wrapper {
-  padding-top: 2.5rem;   /* distance from top */
-  padding-bottom: 0;
-  padding-left: 2.5rem;  /* distance from left */
-}
-
-/* ===== Homepage hero text positioning (force top-left) ===== */
+/* Make overlay a positioning context (DO NOT change layout to flex) */
 .home.layout--splash .page__hero--overlay {
-  display: flex;
-  align-items: flex-start;      /* top */
-  justify-content: flex-start;  /* left */
+  position: relative;
 }
 
-.home.layout--splash .page__hero--overlay .wrapper {
-  width: 100%;
-}
-
-/* The excerpt block inside the hero */
+/* ===== Place the hero text at top-left (without changing image size) ===== */
 .home.layout--splash .page__hero--overlay .page__lead {
+  position: absolute;
+  top: 2.5rem;
+  left: 2.5rem;
   margin: 0;
-  max-width: 48rem;   /* optional: prevent super-wide line */
+  max-width: 48rem;            /* optional */
+  text-align: left;
+  z-index: 2;                  /* ensure it sits above overlay */
+}
+
+/* Optional: prevent extra vertical padding pushing content */
+.home.layout--splash .page__hero--overlay .wrapper {
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 /* ===== People grid styles (used on Lab/People sections) ===== */
-
 .people-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr); /* mobile default */
