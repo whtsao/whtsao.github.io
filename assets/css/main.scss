@@ -16,17 +16,27 @@
 /* Control vertical spacing in the hero content */
 .home.layout--splash .page__hero .wrapper,
 .home.layout--splash .page__hero--overlay .wrapper {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2.5rem;   /* distance from top */
+  padding-bottom: 0;
+  padding-left: 2.5rem;  /* distance from left */
 }
 
-/* ===== Homepage hero text positioning ===== */
+/* ===== Homepage hero text positioning (force top-left) ===== */
+.home.layout--splash .page__hero--overlay {
+  display: flex;
+  align-items: flex-start;      /* top */
+  justify-content: flex-start;  /* left */
+}
+
 .home.layout--splash .page__hero--overlay .wrapper {
-  align-items: flex-start;     /* top */
-  justify-content: flex-start; /* left */
-  text-align: left;
+  width: 100%;
 }
 
+/* The excerpt block inside the hero */
+.home.layout--splash .page__hero--overlay .page__lead {
+  margin: 0;
+  max-width: 48rem;   /* optional: prevent super-wide line */
+}
 
 /* ===== People grid styles (used on Lab/People sections) ===== */
 
