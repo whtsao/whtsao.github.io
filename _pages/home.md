@@ -12,25 +12,25 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/main.png
   overlay_filter: 0.25
-  excerpt: >
-    <span style="font-size: 1.6rem; font-weight: 500;">
-    Building sustainable and resilient coastal communities through hybrid physical–digital twin technologies
-    </span>
 
+excerpt: >
+  <span style="font-size: 1.6rem; font-weight: 500; color: #ffffff; line-height: 1.4;">
+  Building sustainable and resilient coastal communities through hybrid physical–digital twin technologies
+  </span>
 
 feature_row:
-  - image_path: /assets/images/gif/wave_mangrove.gif
+  - image_path: /assets/gif/wave_mangrove.gif
     alt: "Modeling"
     title: "Modeling"
-    excerpt: "Numerical modeling of water-related systems."
-  - image_path: /assets/images/home-engineering.gif
-    alt: "Engineering"
-    title: "Engineering"
-    excerpt: "Design of marine, coastal, and offshore structures."
-  - image_path: /assets/images/home-software.gif
-    alt: "Software"
-    title: "Software"
-    excerpt: "Python/Fortran/Matlab computational toolkits."
+    excerpt: "Physics-based modeling of coastal and ocean systems"
+  - image_path: /assets/gif/temp.gif
+    alt: "Digital Twin"
+    title: "Digital Twin"
+    excerpt: "Virtual representations integrating models and data"
+  - image_path: /assets/gif/temp.gif
+    alt: "Resilience & Sustainability"
+    title: "Resilience & Sustainability"
+    excerpt: "Enhancing coastal resilience under climate-driven hazards"
 ---
 
 {% include feature_row %}
