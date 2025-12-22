@@ -20,11 +20,11 @@ excerpt: >
   </span>
 
 feature_row:
-  - image_path: /assets/gif/wave_mangrove.gif
+  - image_path: /assets/gif/moored_tld.gif
     alt: "Modeling"
     title: "Modeling"
     excerpt: "Physics-based modeling of coastal and ocean systems"
-  - image_path: /assets/gif/temp.gif
+  - image_path: /assets/gif/wave_mangrove.gif
     alt: "Digital Twin"
     title: "Digital Twin"
     excerpt: "Virtual representations integrating models and data"
