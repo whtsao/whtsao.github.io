@@ -23,15 +23,15 @@ feature_row:
   - image_path: /assets/gif/moored_tld.gif
     alt: "Modeling"
     title: "Modeling"
-    excerpt: "Physics-based modeling of coastal and ocean systems"
+    excerpt: "Multiphysics dynamics of coastal and ocean systems"
   - image_path: /assets/gif/mangrove_image_cap.gif
     alt: "Digital Twin"
     title: "Digital Twin"
-    excerpt: "Virtual representations integrating models and data"
+    excerpt: "Fluid-structure modeling and data assimilation"
   - image_path: /assets/gif/waves_in_bay.gif
     alt: "Resilience & Sustainability"
     title: "Resilience & Sustainability"
-    excerpt: "Enhancing coastal resilience under climate-driven hazards"
+    excerpt: "Enhancing coastal resilience under climate hazards"
 ---
 
 {% include feature_row %}

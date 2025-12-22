@@ -12,6 +12,16 @@ permalink: /lab/
 
 ---
 
+## Join Our Lab
+
+<p style="text-align: justify;">
+The VISCOR Lab is actively recruiting motivated and talented undergraduate and master’s students interested in multiphysics modeling and data-driven digital twin technologies for coastal and ocean engineering. We welcome students from diverse academic and cultural backgrounds. Please visit our [Research](https://whtsao.github.io/research/) page to learn more about our core research areas and ongoing projects.
+
+If you’re interested in joining the lab, feel free to use the [Contact](https://whtsao.github.io/contact/) page or email Dr. Tsao directly at [wtsao@mcneese.edu](mailto:wtsao@mcneese.edu). We’d love to hear from you!
+</p>
+
+---
+
 ## Graduate Students
 
 <div class="people-grid">

@@ -42,7 +42,7 @@
 .home.layout--splash .feature__item img {
   width: 100%;
   height: 220px;          /* unify GIF height: try 180/200/240 */
-  object-fit: cover;      /* do not stretch; crop excess */
+  object-fit: contain;      /* do not stretch; crop excess */
   object-position: center;
   display: block;
 }
