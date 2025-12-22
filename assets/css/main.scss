@@ -20,6 +20,14 @@
   padding-bottom: 6rem;
 }
 
+/* ===== Homepage hero text positioning ===== */
+.home.layout--splash .page__hero--overlay .wrapper {
+  align-items: flex-start;     /* top */
+  justify-content: flex-start; /* left */
+  text-align: left;
+}
+
+
 /* ===== People grid styles (used on Lab/People sections) ===== */
 
 .people-grid {
