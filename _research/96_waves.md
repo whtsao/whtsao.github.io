@@ -13,4 +13,4 @@ In this work we consider non-hydrstatic models of water waves including the Serr
 We address the well-balanced property for free surface flows over variable bathymetry, robustness during wetting and drying, and both conforming and embedded approaches to representing surface elevations. The overall objective is to allow modelers to begin exploiting high-fidelity models for both local engineering design and for informing sub-grid parameterizations in earth system models.
 </p>
 
-Project: Anticipating Threats to Natural Systems — funded by *US Army ERDC* (2024)
+Project: Anticipating Threats to Natural Systems — funded by *US Army ERDC* (2023)
