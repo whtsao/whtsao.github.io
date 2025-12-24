@@ -7,7 +7,7 @@ permalink: /lab/
 ## Our Mission
 
 <p style="text-align: justify;">
-<em>Virtual Integrated Systems for Coastal–Ocean Resilience Lab</em> (VISCOR) focuses on developing digital twin and virtual system frameworks to enhance the resilience and sustainability of coastal and ocean systems. The lab integrates physics-based modeling, data-informed virtual representations, and system-level analysis to address climate hazards, support resilient engineering design, and enable efficient decision-making.
+The <em>Virtual Integrated Systems for Coastal–Ocean Resilience Lab</em> (VISCOR) focuses on developing digital twin frameworks that integrate physics-based modeling, data-informed virtual representations, and system-level analysis to address climate hazards, support resilient engineering design, and enable efficient decision-making.
 </p>
 
 ---
@@ -72,5 +72,5 @@ Add more graduate students here by copying a person-card block
 ## Join Our Lab
 
 <p style="text-align: justify;">
-The VISCOR Lab is actively recruiting motivated and talented undergraduate and master’s students from diverse academic and cultural backgrounds. If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page or email Dr. Tsao directly at <a href="mailto:wtsao@mcneese.edu">wtsao@mcneese.edu</a>. We’d love to hear from you!
+We are actively recruiting motivated undergraduate and master’s students from diverse academic and cultural backgrounds. If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page or email Dr. Tsao directly at <a href="mailto:wtsao@mcneese.edu">wtsao@mcneese.edu</a>. We’d love to hear from you!
 </p>
