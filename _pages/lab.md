@@ -12,12 +12,13 @@ permalink: /lab/
 
 ---
 
-## Join Our Lab
+## Funding & Support
 
-<p style="text-align: justify;">
-The VISCOR Lab is actively recruiting motivated and talented undergraduate and master’s students from diverse academic and cultural backgrounds. If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page or email Dr. Tsao directly at <a href="mailto:wtsao@mcneese.edu">wtsao@mcneese.edu</a>. We’d love to hear from you!
+<p style="text-align: center;">
+  <img src="/assets/images/funds/fundingagency.png"
+       alt="VISCOR Lab funding support"
+       style="max-width: 80%; height: auto;">
 </p>
-
 ---
 
 ## Graduate Students
@@ -65,3 +66,11 @@ Add more graduate students here by copying a person-card block
 
 </div>
 -->
+
+---
+
+## Join Our Lab
+
+<p style="text-align: justify;">
+The VISCOR Lab is actively recruiting motivated and talented undergraduate and master’s students from diverse academic and cultural backgrounds. If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page or email Dr. Tsao directly at <a href="mailto:wtsao@mcneese.edu">wtsao@mcneese.edu</a>. We’d love to hear from you!
+</p>
