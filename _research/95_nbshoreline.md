@@ -1,6 +1,6 @@
 ---
 title: "Natural Shoreline Design"
-excerpt: "Design ecosystem and natural shoreline through high-performance numerical models"
+excerpt: "Better natural shoreline design through multi-scale numerical modeling"
 header:
 #  image: /assets/images/research/mangrove_sim.png
   teaser: /assets/images/research/mangrove_sim.png

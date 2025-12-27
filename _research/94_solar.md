@@ -1,6 +1,6 @@
 ---
 title: "Solar Energy Deployment in Louisiana "
-excerpt: "Evaluating solar farm feasibility across Louisiana to support energy sustainability"
+excerpt: "Evaluating the feasibility of renewable energy deployment across Louisiana"
 header:
 #  image: /assets/images/research/terrestrial_panel.png
   teaser: /assets/images/research/terrestrial_panel.png

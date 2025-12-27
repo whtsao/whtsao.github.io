@@ -1,6 +1,6 @@
 ---
 title: "Floater dynamics and Mooring Analysis"
-excerpt: "Simulation of floater dynamics under the influence of wave, wind, and current forces"
+excerpt: "Simulation of floater dynamics undergoing wave-wind-current excitations"
 header:
 #  image: /assets/images/research/floating_panel.png
   teaser: /assets/images/research/floating_panel.png
