@@ -7,7 +7,7 @@ permalink: /lab/
 ## Our Mission
 
 <p style="text-align: justify;">
-The <em>Virtual Integrated Systems for Coastal–Ocean Resilience Lab</em> (VISCOR) focuses on developing digital twin frameworks that integrate physics-based modeling, data-informed virtual representations, and multi-scale analysis to address climate hazards, support resilient engineering design, and enable efficient decision-making.
+The **Virtual Integrated Systems for Coastal–Ocean Resilience Lab** (VISCOR) focuses on developing digital twin frameworks that integrate physics-based modeling, data-informed virtual representations, and multi-scale analysis to address climate hazards, support resilient engineering design, and enable efficient decision-making.
 </p>
 
 ---
