@@ -27,9 +27,7 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
   <div class="person-card">
     <img class="person-photo" src="/assets/images/people/arjun.jpg" alt="Student name">
-    <div class="person-name">
-      <span class="name">Arjun Gautam</span>
-      <span class="degree">(Civil M.S.)</span>
+    <div class="person-name">Arjun Gautam (Civil M.S.)</div>
   </div>
 
 </div>
