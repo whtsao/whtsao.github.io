@@ -19,6 +19,6 @@ I am a licensed Professional Engineer in Texas (No. 157642) and an active member
 </p>
 
 <p style="text-align: justify;">
-I enjoy taking on creative projects. I love sports. I am a volunteer coach for youth basketball.
+I enjoy taking on creative projects. I love sports.
 </p>
 
