@@ -31,7 +31,7 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/rowgy.jpg" alt="Student name">
+    <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
     <div class="person-name">Andres Maldonado (Co-advised Civil M.S.)</div>
   </div>
 
