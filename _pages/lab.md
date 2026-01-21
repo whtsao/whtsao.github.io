@@ -30,6 +30,11 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
     <div class="person-name">Arjun Gautam (Civil M.S.)</div>
   </div>
 
+  <div class="person-card">
+    <img class="person-photo" src="/assets/images/people/rowgy.jpg" alt="Student name">
+    <div class="person-name">Andres Maldonado (Co-advised Civil M.S.)</div>
+  </div>
+
 </div>
 
 <!--
@@ -48,13 +53,13 @@ Add more graduate students here by copying a person-card block
   </div>
 
   <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
-    <div class="person-name">Student Name (Mechanical)</div>
+    <img class="person-photo" src="/assets/images/people/kaylene.jpg" alt="Student name">
+    <div class="person-name">Kaylene Gohmann (Mechanical)</div>
   </div>
 
   <div class="person-card">
     <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
-    <div class="person-name">Student Name (Mechanical)</div>
+    <div class="person-name">Seth Bertrand (Mechanical)</div>
   </div>
 
 </div>
