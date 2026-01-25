@@ -82,5 +82,5 @@ Add more graduate students here by copying a person-card block
 ## Join Our Lab
 
 <p style="text-align: justify;">
-We are actively recruiting motivated undergraduate and master’s students from diverse academic and cultural backgrounds. If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page or email Dr. Tsao directly at <a href="mailto:wtsao@mcneese.edu">wtsao@mcneese.edu</a>. We’d love to hear from you!
+We are actively recruiting motivated undergraduate and master’s students from diverse academic and cultural backgrounds. If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page. We’d love to hear from you!
 </p>
