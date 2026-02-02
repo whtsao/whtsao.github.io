@@ -48,7 +48,7 @@ Add more graduate students here by copying a person-card block
 <div class="people-grid">
 
   <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
+    <img class="person-photo" src="/assets/images/people/favour.jpg" alt="Student name">
     <div class="person-name">Favour Okereke (Civil)</div>
   </div>
 
