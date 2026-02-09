@@ -11,41 +11,14 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 </p>
 ---
 
-## Principal Investigator
+## Funding & Support
 
-<div class="people-grid">
-
-  <div class="person-card">
-    <img
-      class="person-photo"
-      src="/assets/images/lsu_headshot.jpg"
-      alt="Wen-Huai Tsao"
-    >
-
-    <div class="person-name">
-      Wen-Huai Tsao, PhD, PE, M.ASCE
-    </div>
-    
-    <div class="person-title">
-      Assistant Professor
-    </div>
-
-    <div class="person-department">
-      Department of Engineering and Computer Science
-    </div>
-
-    <div class="person-affiliation">
-      McNeese State University
-    </div>
-  
-    <div class="person-office">
-      Office: Drew 135
-    </div>
-  </div>
-
-</div>
+<p style="text-align: center;">
+  <img src="/assets/images/funds/fundingagency.png"
+       alt="VISCOR Lab funding support"
+       style="max-width: 80%; height: auto;">
+</p>
 ---
-
 
 ## Graduate Students
 
@@ -84,15 +57,6 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
   </div>
 
 </div>
----
-
-## Funding & Support
-
-<p style="text-align: center;">
-  <img src="/assets/images/funds/fundingagency.png"
-       alt="VISCOR Lab funding support"
-       style="max-width: 80%; height: auto;">
-</p>
 ---
 
 ## Join Our Lab
