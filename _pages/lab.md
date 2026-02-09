@@ -9,17 +9,43 @@ permalink: /lab/
 <p style="text-align: justify;">
 The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) focuses on developing digital twin frameworks that integrate physics-based modeling, data-informed virtual representations, and multi-scale analysis to address climate hazards, support resilient engineering design, and enable efficient decision-making.
 </p>
-
 ---
 
-## Funding & Support
+## Principal Investigator
 
-<p style="text-align: center;">
-  <img src="/assets/images/funds/fundingagency.png"
-       alt="VISCOR Lab funding support"
-       style="max-width: 80%; height: auto;">
-</p>
+<div class="people-grid">
+
+  <div class="person-card">
+    <img
+      class="person-photo"
+      src="/assets/images/lsu_headshot.jpg"
+      alt="Wen-Huai Tsao"
+    >
+
+    <div class="person-name">
+      Wen-Huai Tsao, PhD, PE, M.ASCE
+    </div>
+    
+    <div class="person-title">
+      Assistant Professor
+    </div>
+
+    <div class="person-department">
+      Department of Engineering and Computer Science
+    </div>
+
+    <div class="person-affiliation">
+      McNeese State University
+    </div>
+  
+    <div class="person-office">
+      Office: Drew 135
+    </div>
+  </div>
+
+</div>
 ---
+
 
 ## Graduate Students
 
@@ -27,20 +53,15 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
   <div class="person-card">
     <img class="person-photo" src="/assets/images/people/arjun.jpg" alt="Student name">
-    <div class="person-name">Arjun Gautam (Civil M.S.)</div>
+    <div class="person-name">Arjun Gautam (Civil)</div>
   </div>
 
   <div class="person-card">
     <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
-    <div class="person-name">Andres Maldonado (Co-advised Civil M.S.)</div>
+    <div class="person-name">Andres Maldonado (Co-advised Civil)</div>
   </div>
 
 </div>
-
-<!--
-Add more graduate students here by copying a person-card block
--->
-
 ---
 
 ## Undergraduate Students
@@ -63,20 +84,15 @@ Add more graduate students here by copying a person-card block
   </div>
 
 </div>
+---
 
-<!--
-## Alumni
+## Funding & Support
 
-<div class="people-grid">
-
-  <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
-    <div class="person-name">Student Name</div>
-  </div>
-
-</div>
--->
-
+<p style="text-align: center;">
+  <img src="/assets/images/funds/fundingagency.png"
+       alt="VISCOR Lab funding support"
+       style="max-width: 80%; height: auto;">
+</p>
 ---
 
 ## Join Our Lab
