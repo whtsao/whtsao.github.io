@@ -14,13 +14,13 @@ permalink: /publications/
 
 
 <p style="text-align: justify;">
-1.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2026). Comparative analysis of high-fidelity and reduced-physics models for nonlinear wave-bathymetry and wave-structure interactions. Journal of Marine Science and Engineering, (Under Review).
+1.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2026). Comparative analysis of high-fidelity and reduced-physics models for nonlinear wave-bathymetry and wave-structure interactions. <em>Journal of Marine Science and Engineering</em>, (Under Review).
 </p>
 <p style="text-align: justify;">
-2.	Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T. (2026). Probabilistic wave field reconstruction via Bayesian neural fields: fusing multi-mission altimetry for reliable wave energy assessment. Applied Ocean Research, (Under Review).
+2.	Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T. (2026). Probabilistic wave field reconstruction via Bayesian neural fields: fusing multi-mission altimetry for reliable wave energy assessment. <em>Applied Ocean Research</em>, (Under Review).
 </p>
 <p style="text-align: justify;">
-3.	<strong>Tsao, W.H.</strong> (2026). Extension of the API standard 650 equivalent mechanical model and its application to LNG vessel stability under wave excitation, Louisiana Civil Engineer, ASCE Louisiana Section, Febuary, 16-21. <a href="/assets/pdf/lcej_202602.pdf" target="_blank">LCE magazine</a>
+3.	<strong>Tsao, W.H.</strong> (2026). Extension of the API standard 650 equivalent mechanical model and its application to LNG vessel stability under wave excitation, <em>Louisiana Civil Engineer, ASCE Louisiana Section</em>, Febuary, 16-21. <a href="/assets/pdf/lcej_202602.pdf" target="_blank">LCE magazine</a>
 </p>
 <p style="text-align: justify;">
 4.	<strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2025). High-order phase-resolving CutFEM for wave transformation over natural shorelines, <em>Journal of Waterway Port Coastal and Ocean Engineering</em>, 151(3), 04025006. <a href="https://doi.org/10.1061/JWPED5.WWENG-2130" target="_blank">doi: 10.1061/JWPED5.WWENG-2130</a>
