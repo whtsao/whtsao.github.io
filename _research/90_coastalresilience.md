@@ -13,6 +13,8 @@ Louisiana’s coast is constantly changing and is among the most threatened in t
 This project will develop high-order computational method and multi-fidelity surrogate model to describe mangrove-hurricane interactions. The vision is to establish the foundation for a digital twin of Louisiana’s natural shorelines that can simulate and predict the performance of coastal protection functions under extreme climate scenarios.
 </p>
 
+<p style="text-align: justify;">
 Project:<br>
-Building Resilient Coastal Communities with Natural Shorelines — funded by *The Brown Foundation* (2026)<br>
-Uncertainty Quantification of Wave Attenuation by Louisiana Mangrove Forests Using Multi-Fidelity Surrogate Models — funded by *Louisiana Sea Grant* (2026)
+- Building Resilient Coastal Communities with Natural Shorelines — funded by *The Brown Foundation* (2026)<br>
+- Uncertainty Quantification of Wave Attenuation by Louisiana Mangrove Forests Using Multi-Fidelity Surrogate Models — funded by *Louisiana Sea Grant* (2026)
+</p>
