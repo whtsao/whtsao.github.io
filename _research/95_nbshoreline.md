@@ -13,5 +13,7 @@ We present the implementation of a high-order phase-resolving Cut Finite Element
 We've characterized different components of the hydrodynamic drag induced by the mangrove forest. The reduced-order model accounts for the equivalent wave damping is further established to replicate the wave attenuation. The results show that CutFEM is robust, accurate, and efficient for solving complex fluid-structure interactions. This research not only offers a convenient method for upgrading existing finite element codes but also benefits practical design applications.
 </p>
 
+<p style="text-align: justify;">
 Project:<br>
-Anticipating Threats to Natural Systems — funded by *US Army ERDC* (2024)
+Anticipating Threats to Natural Systems — funded by <em>US Army ERDC</em> (2024)
+</p>

@@ -14,7 +14,7 @@ This project will develop high-order computational method and multi-fidelity sur
 </p>
 
 <p style="text-align: justify;">
-Project:<br>
-- Building Resilient Coastal Communities with Natural Shorelines — funded by *The Brown Foundation* (2026)<br>
-- Uncertainty Quantification of Wave Attenuation by Louisiana Mangrove Forests Using Multi-Fidelity Surrogate Models — funded by *Louisiana Sea Grant* (2026)
+Projects:<br>
+Building Resilient Coastal Communities with Natural Shorelines — funded by <em>The Brown Foundation</em> (2026)<br>
+Uncertainty Quantification of Wave Attenuation by Louisiana Mangrove Forests Using Multi-Fidelity Surrogate Models — funded by <em>Louisiana Sea Grant</em> (2026)
 </p>

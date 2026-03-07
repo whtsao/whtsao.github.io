@@ -13,5 +13,7 @@ Sea level rise poses increasing risks to coastal cities, infrastructure, and eco
 This project develops a Digital Twin framework for Floating Cities, enabling integrated design, analysis, and operation of floating and pile-supported infrastructure under climate-driven hazards. The DT represents a virtual counterpart of a floating city, continuously informed by real-world data to simulate structural response, environmental interaction, and operational performance in real time. Key components include floating housing and facilities, mooring and stabilization systems, energy infrastructure, and surrounding coastal ecosystems.
 </p>
 
+<p style="text-align: justify;">
 Project:<br>
-Floating City Digital Twin for Enhanced Coastal Resilience and Sustainability — funded by *COWIfonden* (2025)
+Floating City Digital Twin for Enhanced Coastal Resilience and Sustainability — funded by <em>COWIfonden</em> (2025)
+</p>

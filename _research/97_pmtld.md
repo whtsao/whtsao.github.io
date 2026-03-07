@@ -13,5 +13,7 @@ The tuned liquid damper filled with porous media is developed to promote an addi
 The model was validated through impulsive and harmonic shaking-table experiments. The relationships between the equivalent damping ratio, wave amplitude, and ground displacement amplitude for the large-excitation cases are established to model the nonlinear damping effect. A modified mechanical model with a nonlinear damping mechanism is provided.
 </p>
 
+<p style="text-align: justify;">
 Project:<br>
-Theoretical Analysis, Numerical Method and Model Test of Porous Media Tuned Liquid Damper — funded by *MOST of Taiwan* (2019-2021)
+Theoretical Analysis, Numerical Method and Model Test of Porous Media Tuned Liquid Damper — funded by <em>MOST of Taiwan</em> (2019-2021)
+</p>

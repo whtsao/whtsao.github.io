@@ -13,5 +13,7 @@ The three-dimensional potential flow problems are solved by a boundary integral 
 In our test cases, the convergence speed of this method for a smooth body is of the order N<sup>-3</sup> in one direction no matter how high-order quadrature is applied. For nearly singular integrals, several extremely oblate spheroids are tested to verify this method. These results illustrate that this method can effectively improve the nearly singular deficit when it exists. For the non-smooth bodies, the present method is applied to solve the mixed boundary value problems inside two kinds of vessels, which are sloshing motions. At last, some tests are compared between the boundary element methods (local elements) and the present method (global elements).
 </p>
 
+<p style="text-align: justify;">
 Project:<br>
-Applications of Regularized Boundary Integral Methods — funded by *MOST of Taiwan* (2016)
+Applications of Regularized Boundary Integral Methods — funded by <em>MOST of Taiwan</em> (2016)
+</p>

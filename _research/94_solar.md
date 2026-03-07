@@ -13,5 +13,7 @@ We developed advanced simulation tools for both land-based and water-based solar
 We The use site-specific data to create digital twins of real solar farms. These digital twins can simulate and forecast how solar farms will perform under various conditions, helping to manage risks such as flooding, storms, and landscape changes. Additionally, we collaborate with industrial companies like BASF and Entergy to apply these simulations to real-world projects.
 </p>
 
+<p style="text-align: justify;">
 Project:<br>
-Utilizing the Sun for a Sustainable Future in Louisiana: A Pilot Solar Deployment Project at LSU — funded by *LSU IEI* (2024)
+Utilizing the Sun for a Sustainable Future in Louisiana: A Pilot Solar Deployment Project at LSU — funded by <em>LSU IEI</em> (2024)
+</p>

@@ -13,5 +13,7 @@ A new boundary integral method (BIM) is employed to solve the 2D and 3D nonlinea
 Several small-scaled model tests on a shaking table, including harmonic and earthquake excitations, are carried out to verify the numerical methods. An artificial damping coefficient is introduced to simulate the energy dissipation of liquid motion. The results shows that BIM is reliable and efficient for nonlinear sloshing simulation.
 </p>
 
+<p style="text-align: justify;">
 Project:<br>
-Nonlinear Sloshing Dynamics — funded by *MOST of Taiwan* (2017)
+Nonlinear Sloshing Dynamics — funded by <em>MOST of Taiwan</em> (2017)
+</p>
