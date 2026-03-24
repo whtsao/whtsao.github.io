@@ -11,13 +11,11 @@ permalink: /publications/
 </p>
 
 **Journal Articles**
-
-
 <p style="text-align: justify;">
-1.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2026). Comparative analysis of high-fidelity and reduced-physics models for nonlinear wave-bathymetry and wave-structure interactions. <em>Journal of Marine Science and Engineering</em>, (Under Review).
+1.	Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T. (2026). Probabilistic wave field reconstruction via Bayesian neural fields. <em>Applied Ocean Research</em>, (Under Review).
 </p>
 <p style="text-align: justify;">
-2.	Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T. (2026). Probabilistic wave field reconstruction via Bayesian neural fields: fusing multi-mission altimetry for reliable wave energy assessment. <em>Applied Ocean Research</em>, (Under Review).
+2.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2026). Comparative analysis of high-fidelity and reduced-order models for nonlinear wave-bathymetry and wave-structure interactions. <em>Journal of Marine Science and Engineering</em>, 14(7), 594. <a href="https://doi.org/10.3390/jmse14070594" target="_blank">doi: 10.3390/jmse14070594</a>
 </p>
 <p style="text-align: justify;">
 3.	<strong>Tsao, W.H.</strong> (2026). Extension of the API standard 650 equivalent mechanical model and its application to LNG vessel stability under wave excitation, <em>Louisiana Civil Engineer, ASCE Louisiana Section</em>, Febuary, 16-21. <a href="/assets/pdf/lcej_202602.pdf" target="_blank">LCE magazine</a>
