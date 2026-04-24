@@ -1,9 +1,9 @@
 ---
-title: "mazupy"
+title: "pycoco"
 excerpt: "Python Tools for Coasal Computations"
 header:
-#  image: /assets/images/software/mazupy.png
-  teaser: /assets/images/software/mazupy.png
+#  image: /assets/images/software/pycoco.png
+  teaser: /assets/images/software/pycoco.png
 share: false
 ---
 
