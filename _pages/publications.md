@@ -12,56 +12,57 @@ permalink: /publications/
 
 **Journal Articles**
 <p style="text-align: justify;">
-1.	Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T. (2026). Probabilistic wave field reconstruction via Bayesian neural fields. <em>Applied Ocean Research</em>, (Under Review).
+1.	Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T.<sup>*</sup> (2026). Probabilistic wave field reconstruction via Bayesian neural fields. <em>Applied Ocean Research</em>, (Under Review).
 </p>
 <p style="text-align: justify;">
-2.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2026). Comparative analysis of high-fidelity and reduced-order models for nonlinear wave-bathymetry and wave-structure interactions. <em>Journal of Marine Science and Engineering</em>, 14(7), 594. <a href="https://doi.org/10.3390/jmse14070594" target="_blank">doi: 10.3390/jmse14070594</a>
+2.	<strong>Tsao, W.H.<sup>*</sup></strong>, Kees, C.E. (2026). Comparative analysis of high-fidelity and reduced-order models for nonlinear wave-bathymetry and wave-structure interactions. <em>Journal of Marine Science and Engineering</em>, 14(7), 594. <a href="https://doi.org/10.3390/jmse14070594" target="_blank">doi: 10.3390/jmse14070594</a>
 </p>
 <p style="text-align: justify;">
-3.	<strong>Tsao, W.H.</strong> (2026). Extension of the API standard 650 equivalent mechanical model and its application to LNG vessel stability under wave excitation, <em>Louisiana Civil Engineer, ASCE Louisiana Section</em>, Febuary, 16-21. <a href="/assets/pdf/lcej_202602.pdf" target="_blank">LCE magazine</a>
+3.	<strong>Tsao, W.H.<sup>*</sup></strong> (2026). Extension of the API standard 650 equivalent mechanical model and its application to LNG vessel stability under wave excitation, <em>Louisiana Civil Engineer, ASCE Louisiana Section</em>, Febuary, 16-21. <a href="/assets/pdf/lcej_202602.pdf" target="_blank">LCE magazine</a>
 </p>
 <p style="text-align: justify;">
-4.	<strong>Tsao, W.H.</strong>, Kees, C.E., Schurr, R. (2025). High-order phase-resolving CutFEM for wave transformation over natural shorelines, <em>Journal of Waterway Port Coastal and Ocean Engineering</em>, 151(3), 04025006. <a href="https://doi.org/10.1061/JWPED5.WWENG-2130" target="_blank">doi: 10.1061/JWPED5.WWENG-2130</a>
+4.	<strong>Tsao, W.H.<sup>*</sup></strong>, Kees, C.E., Schurr, R. (2025). High-order phase-resolving CutFEM for wave transformation over natural shorelines, <em>Journal of Waterway Port Coastal and Ocean Engineering</em>, 151(3), 04025006. <a href="https://doi.org/10.1061/JWPED5.WWENG-2130" target="_blank">doi: 10.1061/JWPED5.WWENG-2130</a>
 </p>
 <p style="text-align: justify;">
-5.	<strong>Tsao, W.H.</strong>, Hwang, W.S., Huang, C.W., Huang, Y.L. (2025). Physics-based reduced-order modeling and experimental verification of a nonlinear porous-media tuned liquid damper for seismic vibration control, <em>Ocean Engineering</em>, 337, 121905. <a href="https://doi.org/10.1016/j.oceaneng.2025.121905" target="_blank">doi: 10.1016/j.oceaneng.2025.121905</a>
+5.	<strong>Tsao, W.H.<sup>*</sup></strong>, Hwang, W.S., Huang, C.W., Huang, Y.L. (2025). Physics-based reduced-order modeling and experimental verification of a nonlinear porous-media tuned liquid damper for seismic vibration control, <em>Ocean Engineering</em>, 337, 121905. <a href="https://doi.org/10.1016/j.oceaneng.2025.121905" target="_blank">doi: 10.1016/j.oceaneng.2025.121905</a>
 </p>
 <p style="text-align: justify;">
-6.	<strong>Tsao, W.H.</strong>, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, <em>Engineering Analysis with Boundary Elements</em>, 157, 326-341. <a href="https://doi.org/10.1016/j.enganabound.2023.09.019" target="_blank">doi: 10.1016/j.enganabound.2023.09.019</a>
+6.	<strong>Tsao, W.H.<sup>*</sup></strong>, Kees, C.E. (2023). An arbitrary Lagrangian-Eulerian regularized boundary integral method for nonlinear free-surface flows over complex topography and wave-structure interaction, <em>Engineering Analysis with Boundary Elements</em>, 157, 326-341. <a href="https://doi.org/10.1016/j.enganabound.2023.09.019" target="_blank">doi: 10.1016/j.enganabound.2023.09.019</a>
 </p>
 <p style="text-align: justify;">
-7.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Response mitigation of floating platform by porous-media-tuned liquid dampers, <em>Journal of Ocean, Offshore and Arctic Engineering</em>, 145(5), 051203. <a href="https://doi.org/10.1115/1.4062292" target="_blank">doi: 10.1115/1.4062292</a>
+7.	<strong>Tsao, W.H.<sup>*</sup></strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2023). Response mitigation of floating platform by porous-media-tuned liquid dampers, <em>Journal of Ocean, Offshore and Arctic Engineering</em>, 145(5), 051203. <a href="https://doi.org/10.1115/1.4062292" target="_blank">doi: 10.1115/1.4062292</a>
 </p>
 <p style="text-align: justify;">
-8.	<strong>Tsao, W.H.</strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2022). The effect of porous media on wave-induced sloshing in a floating tank, <em>Applied Sciences</em>, 12(11), 5587. <a href="https://doi.org/10.3390/app12115587" target="_blank">doi: 10.3390/app12115587</a>
+8.	<strong>Tsao, W.H.<sup>*</sup></strong>, Chen, Y.C., Kees, C.E., Manuel, L. (2022). The effect of porous media on wave-induced sloshing in a floating tank, <em>Applied Sciences</em>, 12(11), 5587. <a href="https://doi.org/10.3390/app12115587" target="_blank">doi: 10.3390/app12115587</a>
 </p>
 <p style="text-align: justify;">
-9.	<strong>Tsao, W.H.</strong>, Huang, L.H. and Hwang, W.S. (2021). An equivalent mechanical model with nonlinear damping for sloshing rectangular tank with porous media. <em>Ocean Engineering</em>, 242, 110145. <a href="https://doi.org/10.1016/j.oceaneng.2021.110145" target="_blank">doi: 10.1016/j.oceaneng.2021.110145</a>
+9.	<strong>Tsao, W.H.</strong>, Huang, L.H. and Hwang, W.S.<sup>*</sup> (2021). An equivalent mechanical model with nonlinear damping for sloshing rectangular tank with porous media. <em>Ocean Engineering</em>, 242, 110145. <a href="https://doi.org/10.1016/j.oceaneng.2021.110145" target="_blank">doi: 10.1016/j.oceaneng.2021.110145</a>
 </p>
 <p style="text-align: justify;">
-10.	<strong>Tsao, W.H.</strong> and Kinnas, S.A. (2021). Local simulation of sloshing jet in a rolling tank by viscous-inviscid interaction method. <em>Results in Engineering</em>, 11, 100270. <a href="https://doi.org/10.1016/j.rineng.2021.100270" target="_blank">doi: 10.1016/j.rineng.2021.100270</a>
+10.	<strong>Tsao, W.H.<sup>*</sup></strong> and Kinnas, S.A. (2021). Local simulation of sloshing jet in a rolling tank by viscous-inviscid interaction method. <em>Results in Engineering</em>, 11, 100270. <a href="https://doi.org/10.1016/j.rineng.2021.100270" target="_blank">doi: 10.1016/j.rineng.2021.100270</a>
 </p>
 <p style="text-align: justify;">
-11.	<strong>Tsao, W.H.</strong> and Huang, Y.L. (2021). Sloshing force in a rectangular tank with porous media. <em>Results in Engineering</em>, 11, 100250. <a href="https://doi.org/10.1016/j.rineng.2021.100250" target="_blank">doi: 10.1016/j.rineng.2021.100250</a>
+11.	<strong>Tsao, W.H.<sup>*</sup></strong> and Huang, Y.L. (2021). Sloshing force in a rectangular tank with porous media. <em>Results in Engineering</em>, 11, 100250. <a href="https://doi.org/10.1016/j.rineng.2021.100250" target="_blank">doi: 10.1016/j.rineng.2021.100250</a>
 </p>
 <p style="text-align: justify;">
-12.	<strong>Tsao, W.H.</strong> and Chang, T.J. (2020). Sloshing phenomenon in rectangular and cylindrical tanks filled with porous media: supplementary solution and impulsive-excitation experiment. <em>Journal of Engineering Mechanics</em>, 146(12), 04020139. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0001878" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.0001878</a>
+12.	<strong>Tsao, W.H.<sup>*</sup></strong> and Chang, T.J. (2020). Sloshing phenomenon in rectangular and cylindrical tanks filled with porous media: supplementary solution and impulsive-excitation experiment. <em>Journal of Engineering Mechanics</em>, 146(12), 04020139. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0001878" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.0001878</a>
 </p>
 <p style="text-align: justify;">
-13.	<strong>Tsao, W.H.</strong> and Hwang, W.S. (2019). Dynamic characteristics of liquid sloshing in cylindrical tanks filled with porous media. <em>IOP Conference series: Earth and Environmental Science</em>, 351, 012007. <a href="https://doi.org/10.1088/1755-1315/351/1/012007" target="_blank">doi: 10.1088/1755-1315/351/1/012007</a>
+13.	<strong>Tsao, W.H.<sup>*</sup></strong> and Hwang, W.S. (2019). Dynamic characteristics of liquid sloshing in cylindrical tanks filled with porous media. <em>IOP Conference series: Earth and Environmental Science</em>, 351, 012007. <a href="https://doi.org/10.1088/1755-1315/351/1/012007" target="_blank">doi: 10.1088/1755-1315/351/1/012007</a>
 </p>
 <p style="text-align: justify;">
-14.	<strong>Tsao, W.H.</strong> and Hwang, W.S. (2018). Tuned liquid dampers with porous media. <em>Ocean Engineering</em>, 167(1), 55-64. <a href="https://doi.org/10.1016/j.oceaneng.2018.08.034" target="_blank">doi: 10.1016/j.oceaneng.2018.08.034</a>
+14.	<strong>Tsao, W.H.</strong> and Hwang, W.S.<sup>*</sup> (2018). Tuned liquid dampers with porous media. <em>Ocean Engineering</em>, 167(1), 55-64. <a href="https://doi.org/10.1016/j.oceaneng.2018.08.034" target="_blank">doi: 10.1016/j.oceaneng.2018.08.034</a>
 </p>
 <p style="text-align: justify;">
-15.	Chen, Y.H., Hwang, W.S. and <strong>Tsao, W.H.</strong> (2018). Nonlinear dynamic characteristics of rectangular and cylindrical TLDs. <em>Journal of Engineering Mechanics</em>, 144(9), 06018004. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0001510" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.0001510</a>
+15.	Chen, Y.H.<sup>*</sup>, Hwang, W.S. and <strong>Tsao, W.H.</strong> (2018). Nonlinear dynamic characteristics of rectangular and cylindrical TLDs. <em>Journal of Engineering Mechanics</em>, 144(9), 06018004. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0001510" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.0001510</a>
 </p>
 <p style="text-align: justify;">
-16.	<strong>Tsao, W.H.</strong> and Hwang, W.S. (2017). Regularized boundary integral methods for three–dimensional potential flows. <em>Engineering Analysis with Boundary Elements</em>, 77, 49-60. <a href="https://doi.org/10.1016/j.enganabound.2017.01.006" target="_blank">doi: 10.1016/j.enganabound.2017.01.006</a>
+16.	<strong>Tsao, W.H.<sup>*</sup></strong> and Hwang, W.S. (2017). Regularized boundary integral methods for three–dimensional potential flows. <em>Engineering Analysis with Boundary Elements</em>, 77, 49-60. <a href="https://doi.org/10.1016/j.enganabound.2017.01.006" target="_blank">doi: 10.1016/j.enganabound.2017.01.006</a>
 </p>
 <p style="text-align: justify;">
-17.	Chen, Y.H., Hwang, W.S. and <strong>Tsao, W.H.</strong> (2017). Nonlinear sloshing analysis by regularized boundary integral method. <em>Journal of Engineering Mechanics</em>, 143(8), 040170046. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0001255" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.0001255</a>
+17.	Chen, Y.H.<sup>*</sup>, Hwang, W.S. and <strong>Tsao, W.H.</strong> (2017). Nonlinear sloshing analysis by regularized boundary integral method. <em>Journal of Engineering Mechanics</em>, 143(8), 040170046. <a href="https://doi.org/10.1061/(ASCE)EM.1943-7889.0001255" target="_blank">doi: 10.1061/(ASCE)EM.1943-7889.0001255</a>
 </p>
+<p><sup>*</sup> Corresponding author.</p>
 
 **Conference Proceedings**
 <p style="text-align: justify;">
