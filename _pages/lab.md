@@ -26,7 +26,7 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
   <div class="person-card">
     <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
-    <div class="person-name">Andres Maldonado (Civil)</div>
+    <div class="person-name">Andres Maldonado (McNeese Civil)</div>
   </div>
 
 </div>
@@ -37,21 +37,19 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 <div class="people-grid">
 
   <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/favour.jpg" alt="Student name">
-    <div class="person-name">Favour Okereke (Civil)</div>
-  </div>
-
-  <div class="person-card">
+  <!--
     <img class="person-photo" src="/assets/images/people/kaylene.jpg" alt="Student name">
     <div class="person-name">Kaylene Gohmann (Mechanical)</div>
-  </div>
-
-  <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/seth.jpg" alt="Student name">
-    <div class="person-name">Seth Bertrand (Mechanical)</div>
+  -->
   </div>
 
 </div>
+---
+
+## Alumni
+
+- K. Gohmann, S. Bertrand, F. Okereke (McNeese Mechanical & Civil)
+
 ---
 
 ## Join Our Lab
