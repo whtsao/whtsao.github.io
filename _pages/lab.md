@@ -25,8 +25,10 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 <div class="people-grid">
 
   <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
-    <div class="person-name">Andres Maldonado (McNeese Civil)</div>
+  <!--
+    <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
+    <div class="person-name">Student Name</div>
+  -->
   </div>
 
 </div>
@@ -38,8 +40,8 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
   <div class="person-card">
   <!--
-    <img class="person-photo" src="/assets/images/people/kaylene.jpg" alt="Student name">
-    <div class="person-name">Kaylene Gohmann (Mechanical)</div>
+    <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
+    <div class="person-name">Student Name</div>
   -->
   </div>
 
@@ -48,9 +50,10 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
 ## Alumni
 
-- K. Gohmann (McNeese Undergraduates, Mechanical)
-- S. Bertrand (McNeese Undergraduates, Mechanical)
-- F. Okereke (McNeese Undergraduate, Civil)
+- A. Maldonado (McNeese Graduate, Civil, 2027)
+- F. Okereke (McNeese Undergraduate, Civil, 2026)
+- K. Gohmann (McNeese Undergraduate, Mechanical, 2026)
+- S. Bertrand (McNeese Undergraduate, Mechanical, 2026)
 
 ---
 
