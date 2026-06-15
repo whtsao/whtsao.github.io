@@ -25,11 +25,6 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 <div class="people-grid">
 
   <div class="person-card">
-    <img class="person-photo" src="/assets/images/people/arjun.jpg" alt="Student name">
-    <div class="person-name">Arjun Gautam (Civil)</div>
-  </div>
-
-  <div class="person-card">
     <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
     <div class="person-name">Andres Maldonado (Civil)</div>
   </div>
