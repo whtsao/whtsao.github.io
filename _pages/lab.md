@@ -26,7 +26,7 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
   <div class="person-card">
     <img class="person-photo" src="/assets/images/people/rowdy.jpg" alt="Student name">
-    <div class="person-name">Andres Maldonado (McNeese Civil Engineering)</div>
+    <div class="person-name">Andres Maldonado (McNeese Civil)</div>
   </div>
 
 </div>
@@ -48,8 +48,9 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
 ## Alumni
 
-- K. Gohmann, S. Bertrand (McNeese Undergraduates in Mechanical Engineering)
-- F. Okereke (McNeese Undergraduate in Civil Engineering)
+- K. Gohmann (McNeese Undergraduates, Mechanical)
+- S. Bertrand (McNeese Undergraduates, Mechanical)
+- F. Okereke (McNeese Undergraduate, Civil)
 
 ---
 
