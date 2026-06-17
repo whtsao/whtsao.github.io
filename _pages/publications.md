@@ -6,7 +6,6 @@ permalink: /publications/
 ---
 
 **Patents**
-
 <ol>
   <li style="text-align: justify;">
 Tuned Liquid Dampers with Porous Media, <strong>Japan Patent</strong> #3217982, issued August 22, 2018.
@@ -22,7 +21,6 @@ Tuned Liquid Dampers with Porous Media, <strong>Taiwan Patent</strong> #M564058,
 </ol>
 
 **Journal Articles**
-
 <ol>
   <li style="text-align: justify;">
 Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T.<sup>*</sup> (2026). Probabilistic wave field reconstruction via Bayesian neural fields. <em>Applied Ocean Research</em>, (Under Review).
