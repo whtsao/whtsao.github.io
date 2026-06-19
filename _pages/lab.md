@@ -54,12 +54,11 @@ If you’re interested in joining the lab, feel free to use the <a href="https:/
 
 ## Alumni
 
-<p style="text-align: justify;">
 - A. Maldonado (McNeese Graduate, Civil, 2027)
 - F. Okereke (McNeese Undergraduate, Civil, 2026)
 - K. Gohmann (McNeese Undergraduate, Mechanical, 2026)
 - S. Bertrand (McNeese Undergraduate, Mechanical, 2026)
-</p>
+
 ---
 
 ## Funding & Support
