@@ -11,52 +11,6 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 </p>
 ---
 
-## Funding & Support
-
-<p style="text-align: center;">
-  <img src="/assets/images/funds/fundingagency.png"
-       alt="VISCOR Lab funding support"
-       style="max-width: 80%; height: auto;">
-</p>
----
-
-## Graduate Students
-
-<div class="people-grid">
-
-  <div class="person-card">
-  <!--
-    <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
-    <div class="person-name">Student Name</div>
-  -->
-  </div>
-
-</div>
----
-
-## Undergraduate Students
-
-<div class="people-grid">
-
-  <div class="person-card">
-  <!--
-    <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
-    <div class="person-name">Student Name</div>
-  -->
-  </div>
-
-</div>
----
-
-## Alumni
-
-- A. Maldonado (McNeese Graduate, Civil, 2027)
-- F. Okereke (McNeese Undergraduate, Civil, 2026)
-- K. Gohmann (McNeese Undergraduate, Mechanical, 2026)
-- S. Bertrand (McNeese Undergraduate, Mechanical, 2026)
-
----
-
 ## Join Us
 
 <p style="text-align: justify;">
@@ -71,3 +25,45 @@ We are actively recruiting motivated undergraduate and graduate students from di
 <p style="text-align: justify;">
 If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page. We’d love to hear from you!
 </p>
+---
+
+## Graduate Students
+
+<div class="people-grid">
+  <div class="person-card">
+  <!--
+    <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
+    <div class="person-name">Student Name</div>
+  -->
+  </div>
+</div>
+---
+
+## Undergraduate Students
+
+<div class="people-grid">
+  <div class="person-card">
+  <!--
+    <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
+    <div class="person-name">Student Name</div>
+  -->
+  </div>
+</div>
+---
+
+## Alumni
+
+- A. Maldonado (McNeese Graduate, Civil, 2027)
+- F. Okereke (McNeese Undergraduate, Civil, 2026)
+- K. Gohmann (McNeese Undergraduate, Mechanical, 2026)
+- S. Bertrand (McNeese Undergraduate, Mechanical, 2026)
+---
+
+## Funding & Support
+
+<p style="text-align: center;">
+  <img src="/assets/images/funds/fundingagency.png"
+       alt="VISCOR Lab funding support"
+       style="max-width: 80%; height: auto;">
+</p>
+---
