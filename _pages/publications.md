@@ -8,15 +8,15 @@ permalink: /publications/
 **Patents**
 <ol>
   <li style="text-align: justify;">
-Tuned Liquid Dampers with Porous Media, <strong>Japan Patent</strong> #3217982, issued August 22, 2018.
+Tuned Liquid Dampers with Porous Media, Japan Patent #3217982, issued August 22, 2018.
   </li>
 
   <li style="text-align: justify;">
-Tuned Liquid Dampers with Porous Media, <strong>China Patent</strong> #ZL20182 0503987.2, issued January 18, 2019.
+Tuned Liquid Dampers with Porous Media, China Patent #ZL20182 0503987.2, issued January 18, 2019.
   </li>
 
   <li style="text-align: justify;">
-Tuned Liquid Dampers with Porous Media, <strong>Taiwan Patent</strong> #M564058, issued July 21, 2018.
+Tuned Liquid Dampers with Porous Media, Taiwan Patent #M564058, issued July 21, 2018.
   </li>
 </ol>
 

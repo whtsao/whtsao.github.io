@@ -7,8 +7,9 @@ permalink: /lab/
 ## Our Mission
 
 <p style="text-align: justify;">
-The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) focuses on developing digital twin frameworks that integrate physics-based modeling, data-informed virtual representations, and multi-scale analysis to address climate hazards, support resilient engineering design, and enable efficient decision-making.
+The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) develops physics-based and data-integrated digital twin frameworks for coastal and ocean systems. Our research combines high-fidelity simulation, reduced-order modeling, environmental sensing, and data assimilation to improve the resilience, sustainability, and adaptive design of coastal infrastructure and natural shoreline systems.
 </p>
+
 ---
 
 ## Join Us
@@ -53,11 +54,12 @@ If you’re interested in joining the lab, feel free to use the <a href="https:/
 
 ## Alumni
 
+<p style="text-align: justify;">
 - A. Maldonado (McNeese Graduate, Civil, 2027)
 - F. Okereke (McNeese Undergraduate, Civil, 2026)
 - K. Gohmann (McNeese Undergraduate, Mechanical, 2026)
 - S. Bertrand (McNeese Undergraduate, Mechanical, 2026)
-
+</p>
 ---
 
 ## Funding & Support

@@ -11,7 +11,7 @@ I am an Assistant Professor of Coastal Engineering in the <a href="https://uncw.
 </p>
 
 <p style="text-align: justify;">
-Originally from Taipei, Taiwan, I earned my B.S. and Ph.D. degrees in Civil Engineering from National Taiwan University. Before joining UNCW, I conducted research at the University of Texas at Austin and Louisiana State University, worked as a coastal marine engineer at COWI, and served as an assistant professor at McNeese State University. I am a licensed Professional Engineer in Texas (No. 157642) and North Carolina (No. 063269) and an active member of ASCE, ASME, ASBPA, LES, and SFSS.
+Originally from Taipei, Taiwan, I earned my B.S. and Ph.D. degrees in Civil Engineering from National Taiwan University. Before joining UNCW, I conducted research at the University of Texas at Austin and Louisiana State University, worked as a coastal marine engineer at COWI, and served as an assistant professor at McNeese State University. I am a licensed Professional Engineer in North Carolina (No. 063269) and Texas (No. 157642) and an active member of ASCE, ASME, ASBPA, LES, and SFSS.
 </p>
 
 <p style="text-align: justify;">
