@@ -57,8 +57,17 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
 ---
 
-## Join Our Lab
+## Join Us
 
 <p style="text-align: justify;">
-We are actively recruiting motivated undergraduate and master’s students from diverse academic and cultural backgrounds. If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page. We’d love to hear from you!
+We are actively recruiting motivated undergraduate and graduate students from diverse academic and cultural backgrounds. Students interested in joining the VISCOR Lab are encouraged to explore the following academic opportunities at UNCW:
+</p>
+
+- [Applied Coastal & Ocean Sciences, Ph.D.](https://uncw.edu/academics/majors-programs/cms/applied-coastal-ocean-sciences-phd/)
+- [Coastal Engineering & Coastal & Ocean Policy, Bachelor's/Master's Combined Program](https://uncw.edu/academics/majors-programs/cse/coastal-engineering-coastal-ocean-policy-bachelors-masters-combined-program/)
+- [Coastal Engineering, B.S.](https://uncw.edu/academics/majors-programs/cse/coastal-engineering-bs/)
+- [UNCW Scholarships](https://uncw.edu/seahawk-life/money-matters/financial-aid/types/scholarships/)
+
+<p style="text-align: justify;">
+If you’re interested in joining the lab, feel free to use the <a href="https://whtsao.github.io/contact/">Contact</a> page. We’d love to hear from you!
 </p>
