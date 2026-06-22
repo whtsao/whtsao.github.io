@@ -7,7 +7,7 @@ toc: false
 ---
 
 <p style="text-align: justify;">
-I am an Assistant Professor of Coastal Engineering in the <a href="https://uncw.edu/academics/colleges/cse/departments/physics-physical-oceanography/?utm_source=physics-physical-oceanography;utm_medium=301&utm_id=REDIR1&utm_source=phy&utm_medium=301&utm_id=REDIR1" target="_blank">Department of Physics Physical Oceanography</a> at the University of North Carolina Wilmington. My vision is to advance resilient and sustainable coastal communities through digital twin technologies that unify high-fidelity, reduced-order, and interactive frameworks for fluid-structure interaction.
+I am an Assistant Professor of Coastal Engineering in the <a href="https://uncw.edu/academics/colleges/cse/departments/physics-physical-oceanography/?utm_source=physics-physical-oceanography;utm_medium=301&utm_id=REDIR1&utm_source=phy&utm_medium=301&utm_id=REDIR1" target="_blank">Department of Physics and Physical Oceanography</a> at the University of North Carolina Wilmington. My vision is to advance resilient and sustainable coastal communities through digital twin technologies that unify high-fidelity, reduced-order, and interactive frameworks for fluid-structure interaction.
 </p>
 
 <p style="text-align: justify;">
