@@ -23,7 +23,7 @@ Tuned Liquid Dampers with Porous Media, Taiwan Patent #M564058, issued July 21, 
 **Journal Articles**
 <ol>
   <li style="text-align: justify;">
-Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T.<sup>*</sup> (2026). Probabilistic wave field reconstruction via Bayesian neural fields. <em>Applied Ocean Research</em>, (Under Review).
+Liu, D.P., <strong>Tsao, W.H.</strong>, Manuel, L., Heo, T.<sup>*</sup> (2026). Probabilistic wave field reconstruction via Bayesian neural fields. <em>Applied Ocean Research</em>, 173, 105173. <a href="https://doi.org/10.1016/j.apor.2026.105173" target="_blank">doi: 10.1016/j.apor.2026.105173</a>
   </li>
 
   <li style="text-align: justify;">

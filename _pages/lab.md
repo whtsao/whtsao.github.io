@@ -19,6 +19,7 @@ We are actively recruiting motivated undergraduate and graduate students from di
 </p>
 
 - <a href="https://uncw.edu/academics/majors-programs/cms/applied-coastal-ocean-sciences-phd/" target="_blank">Applied Coastal & Ocean Sciences, Ph.D.</a>
+- <a href="https://www.uncw.edu/academics/majors-programs/cms/marine-science-ms/" target="_blank">Marine Science, M.S.</a>
 - <a href="https://uncw.edu/academics/majors-programs/cse/coastal-engineering-coastal-ocean-policy-bachelors-masters-combined-program/" target="_blank">Coastal Engineering & Coastal & Ocean Policy, Bachelor's/Master's Combined Program</a>
 - <a href="https://uncw.edu/academics/majors-programs/cse/coastal-engineering-bs/" target="_blank">Coastal Engineering, B.S.</a>
 - <a href="https://uncw.edu/seahawk-life/money-matters/financial-aid/types/scholarships/" target="_blank">UNCW Scholarships</a>
