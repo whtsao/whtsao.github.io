@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/
 ---
 
-**Patents**
+## Patents
 <ol>
   <li style="text-align: justify;">
 Tuned Liquid Dampers with Porous Media, Japan Patent #3217982, issued August 22, 2018.
@@ -19,8 +19,9 @@ Tuned Liquid Dampers with Porous Media, China Patent #ZL20182 0503987.2, issued 
 Tuned Liquid Dampers with Porous Media, Taiwan Patent #M564058, issued July 21, 2018.
   </li>
 </ol>
+---
 
-**Journal Articles**
+## Journal Articles
 <ol>
   <li style="text-align: justify;">
 Liu, D.P., Heo, T., Kees, C.E., Manuel, L., <strong>Tsao, W.H.<sup>*</sup></strong> (2026). A coupled CutFEM-multibody framework for aerohydrodynamic simulation of floating photovoltaic systems. <em>Applied Ocean Research</em>, (Under Review).
@@ -96,8 +97,9 @@ Chen, Y.H.<sup>*</sup>, Hwang, W.S. and <strong>Tsao, W.H.</strong> (2017). Nonl
 </ol>
 
 <p><sup>*</sup> Corresponding author.</p>
+---
 
-**Conference Proceedings**
+## Conference Proceedings
 <ol>
   <li style="text-align: justify;">
 <strong>Tsao, W.H.</strong>, Kees, C.E., Lindawson, B. (2025). Exploring pilot digital twin solutions for a floating city in the San Francisco Bay Area, Proceedings of the ASME 2025 44th International Conference on Ocean, Offshore and Arctic Engineering, Vancouver, Canada. <a href="https://doi.org/10.1115/OMAE2025-155271" target="_blank">doi: 10.1115/OMAE2025-155271</a>
@@ -143,8 +145,9 @@ Chen, Y.H.<sup>*</sup>, Hwang, W.S. and <strong>Tsao, W.H.</strong> (2017). Nonl
 <strong>Tsao, W.H.</strong> and Hwang, W.S. (2016). The analysis of regularized boundary integral methods for an oblate body in potential flows. 28th Taiwan SNAME and MOST Symposium, Taipei, Taiwan.
   </li>
 </ol>
+---
 
-**Presentations**
+## Presentations
 <ol>
   <li style="text-align: justify;">
 <strong>Tsao, W.H.</strong>, Kees, C.E., Heo, T., Liu, D.P., Manuel, L. (2026). Coupled wind-wave effects on the dynamics of coastal floating photovoltaics. 39th International Conference on Coastal Engineering, Galveston, USA.
@@ -198,3 +201,4 @@ Kees, C.E., <strong>Tsao, W.H.</strong>, and Schurr, R. (2022). Higher-order met
 Kees, C.E., Tovar, E., Schurr, R., and <strong>Tsao, W.H.</strong> (2021). High-performance computational models of non-hydrostatic water waves over complex bathymetry. American Geophysical Union Fall Meeting, New Orleans, USA. <a href="/assets/pdf/agu21.pdf" target="_blank">Poster</a>
   </li>
 </ol>
+---

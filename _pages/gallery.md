@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Gallery"
+collection: gallery
 permalink: /gallery/
 --------------------
 
@@ -43,7 +44,5 @@ permalink: /gallery/
       Favour presenting his UROP Symposium poster on two-phase flow modeling.
     </div>
   </div>
-
-
 
 </div>
