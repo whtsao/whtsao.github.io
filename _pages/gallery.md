@@ -3,9 +3,7 @@ title: "Gallery"
 layout: single
 collection: gallery
 permalink: /gallery/
---------------------
-
-## Gallery
+---
 
 <div class="gallery-grid">
 
