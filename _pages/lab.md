@@ -42,10 +42,8 @@ If you’re interested in joining the lab, feel free to use the <a href="https:/
 
 <div class="people-grid">
   <div class="person-card">
-  <!--
     <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
-    <div class="person-name">Student Name</div>
-  -->
+    <div class="person-name">We need you!</div>
   </div>
 </div>
 ---

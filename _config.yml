@@ -162,6 +162,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  gallery:
+    output: true
+    permalink: /:collection/:path/
   contact:
     output: true
     permalink: /:collection/:path/
@@ -219,6 +222,18 @@ defaults:
       comments: false
       sidebar:
         nav: "software"
+  # _gallery
+  - scope:
+      path: ""
+      type: gallery
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "gallery"
   # _contact
   - scope:
       path: ""

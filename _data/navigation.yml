@@ -29,6 +29,8 @@ main:
     url: /lab/
   - title: "Software"
     url: /software/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Contact"
     url: /contact/
 
