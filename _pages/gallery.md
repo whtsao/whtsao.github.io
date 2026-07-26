@@ -1,6 +1,6 @@
 ---
-layout: single
 title: "Gallery"
+layout: single
 collection: gallery
 permalink: /gallery/
 --------------------

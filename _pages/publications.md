@@ -1,6 +1,6 @@
 ---
-layout: collection
 title: "Publications"
+layout: collection
 collection: publications
 permalink: /publications/
 ---

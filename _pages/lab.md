@@ -1,6 +1,7 @@
 ---
-layout: single
 title: "VISCOR Lab"
+layout: single
+collection: lab
 permalink: /lab/
 ---
 
