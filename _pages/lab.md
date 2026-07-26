@@ -4,10 +4,8 @@ title: "VISCOR Lab"
 permalink: /lab/
 ---
 
-## Our Mission
-
 <p style="text-align: justify;">
-The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) develops physics-based and data-integrated digital twin frameworks for coastal and ocean systems. Our research combines high-fidelity simulation, reduced-order modeling, environmental sensing, and data assimilation to improve the resilience, sustainability, and adaptive design of coastal infrastructure and natural shoreline systems.
+The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) develops innovative digital twin technologies to advance resilient and sustainable coastal communities.
 </p>
 
 ---
@@ -33,10 +31,8 @@ If you’re interested in joining the lab, feel free to use the <a href="https:/
 
 <div class="people-grid">
   <div class="person-card">
-  <!--
     <img class="person-photo" src="/assets/images/people/sammy.jpg" alt="Student name">
-    <div class="person-name">Student Name</div>
-  -->
+    <div class="person-name">We need you!</div>
   </div>
 </div>
 ---
