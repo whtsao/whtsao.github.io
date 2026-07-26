@@ -4,10 +4,11 @@ title: "VISCOR Lab"
 permalink: /lab/
 ---
 
+## Our Mission
+
 <p style="text-align: justify;">
 The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) develops innovative digital twin technologies to advance resilient and sustainable coastal communities.
 </p>
-
 ---
 
 ## Join Us
