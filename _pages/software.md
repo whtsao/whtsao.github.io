@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Software we develop and maintain.
+Software we develop and maintain

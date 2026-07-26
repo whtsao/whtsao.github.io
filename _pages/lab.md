@@ -1,11 +1,11 @@
 ---
 title: "VISCOR Lab"
-layout: single
+layout: collection
 collection: lab
 permalink: /lab/
 ---
 
-**Our Mission**
+## Our Mission
 
 <p style="text-align: justify;">
 The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) develops innovative digital twin technologies to advance resilient and sustainable coastal communities.

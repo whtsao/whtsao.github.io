@@ -1,6 +1,6 @@
 ---
 title: "Gallery"
-layout: single
+layout: collection
 collection: gallery
 permalink: /gallery/
 ---
@@ -18,19 +18,19 @@ permalink: /gallery/
 
   <div class="gallery-card">
     <img class="gallery-photo"
-         src="/assets/images/gallery/mcneese_urop_1.jpg"
+         src="/assets/images/gallery/mcneese_urop_2.jpg"
          alt="McNeese UROP presentation">
     <div class="gallery-caption">
-      Kayleen presenting her UROP Symposium poster on GPR modeling.
+      Seth presenting his UROP Symposium poster on active control.
     </div>
   </div>
 
   <div class="gallery-card">
     <img class="gallery-photo"
-         src="/assets/images/gallery/mcneese_urop_2.jpg"
+         src="/assets/images/gallery/mcneese_urop_1.jpg"
          alt="McNeese UROP presentation">
     <div class="gallery-caption">
-      Seth presenting his UROP Symposium poster on active control.
+      Kayleen presenting her UROP Symposium poster on GPR modeling.
     </div>
   </div>
 
