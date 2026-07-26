@@ -12,7 +12,7 @@ permalink: /gallery/
          src="/assets/images/gallery/mcneese_scan.jpg"
          alt="LiDAR scanning demonstration">
     <div class="gallery-caption">
-      Andres collecting high-resolution tree geometry using a handheld scanner.
+      June 2026 - Andres collecting high-resolution tree geometry using a handheld scanner.
     </div>
   </div>
 
@@ -21,7 +21,7 @@ permalink: /gallery/
          src="/assets/images/gallery/mcneese_urop_1.jpg"
          alt="McNeese UROP presentation">
     <div class="gallery-caption">
-      Kayleen presenting her UROP Symposium poster on GPR modeling.
+      March 2026 - Kayleen presenting her UROP Symposium poster on GPR modeling.
     </div>
   </div>
 
@@ -30,7 +30,7 @@ permalink: /gallery/
          src="/assets/images/gallery/mcneese_urop_2.jpg"
          alt="McNeese UROP presentation">
     <div class="gallery-caption">
-      Seth presenting his UROP Symposium poster on active control.
+      March 2026 - Seth presenting his UROP Symposium poster on active control.
     </div>
   </div>
 
@@ -39,7 +39,7 @@ permalink: /gallery/
          src="/assets/images/gallery/mcneese_urop_3.jpg"
          alt="McNeese UROP presentation">
     <div class="gallery-caption">
-      Favour presenting his UROP Symposium poster on two-phase flow modeling.
+      March 2026 - Favour presenting his UROP Symposium poster on two-phase flow modeling.
     </div>
   </div>
 

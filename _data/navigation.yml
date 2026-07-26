@@ -23,10 +23,10 @@ main:
     url: /wenhuai_tsao/
   - title: "Research"
     url: /research/
+  - title: "VISCOR Lab"
+    url: /lab/    
   - title: "Publications"
     url: /publications/
-  - title: "VISCOR Lab"
-    url: /lab/
   - title: "Software"
     url: /software/
   - title: "Gallery"
