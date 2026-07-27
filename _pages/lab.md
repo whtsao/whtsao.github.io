@@ -3,6 +3,7 @@ title: "VISCOR Lab"
 layout: collection
 collection: lab
 permalink: /lab/
+classes: wide
 ---
 
 ## Our Mission

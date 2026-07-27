@@ -3,6 +3,7 @@ title: "Publications"
 layout: collection
 collection: publications
 permalink: /publications/
+classes: wide
 ---
 
 ## Patents

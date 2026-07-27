@@ -3,6 +3,7 @@ title: "Gallery"
 layout: collection
 collection: gallery
 permalink: /gallery/
+classes: wide
 ---
 
 <div class="gallery-grid">

@@ -4,6 +4,7 @@ layout: collection
 permalink: /contact/
 collection: contact
 entries_layout: grid
+classes: wide
 ---
 
 Please feel free to leave your comments below. I will respond as soon as possible.
