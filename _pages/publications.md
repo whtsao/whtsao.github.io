@@ -25,6 +25,10 @@ Tuned Liquid Dampers with Porous Media, Taiwan Patent #M564058, issued July 21, 
 ## Journal Articles
 <ol>
   <li style="text-align: justify;">
+Liu, D.P., Niu, C.W., <strong>Tsao, W.H.</strong>, Chen, Y.C., Manuel, L., Heo, T.* (2026) Active-learning multi-fidelity long-term fatigue assessment of floating offshore wind turbines. <em>Ocean Engineering</em>, (Under Review).
+  </li>
+
+  <li style="text-align: justify;">
 Liu, D.P., Heo, T., Kees, C.E., Manuel, L., <strong>Tsao, W.H.<sup>*</sup></strong> (2026). A coupled CutFEM-multibody framework for aerohydrodynamic simulation of floating photovoltaic systems. <em>Applied Ocean Research</em>, (Under Review).
   </li>
 
