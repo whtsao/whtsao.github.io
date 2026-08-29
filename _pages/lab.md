@@ -1,5 +1,5 @@
 ---
-title: "VISCOR Lab"
+title: "Team"
 layout: collection
 collection: lab
 permalink: /lab/
@@ -9,7 +9,7 @@ classes: wide
 ## Our Mission
 
 <p style="text-align: justify;">
-The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISCOR) develops innovative digital twin technologies to advance resilient and sustainable coastal communities.
+The <strong>Coastal Structures Lab</strong> develops innovative digital twin technologies to advance resilient and sustainable coastal communities.
 </p>
 ---
 
@@ -46,7 +46,7 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 
 <p style="text-align: center;">
   <img src="/assets/images/funds/fundingagency.png"
-       alt="VISCOR Lab funding support"
+       alt="Coastal Structures Lab funding support"
        style="max-width: 80%; height: auto;">
 </p>
 ---
@@ -54,7 +54,7 @@ The <strong>Virtual Integrated Systems for Coastal Resilience Lab</strong> (VISC
 ## Join Us
 
 <p style="text-align: justify;">
-We are actively recruiting motivated undergraduate and graduate students from diverse academic and cultural backgrounds. Students interested in joining the VISCOR Lab are encouraged to explore the following academic opportunities at UNCW:
+We are actively recruiting motivated undergraduate and graduate students from diverse academic and cultural backgrounds. Students interested in joining the Coastal Structures Lab are encouraged to explore the following academic opportunities at UNCW:
 </p>
 
 - <a href="https://uncw.edu/academics/majors-programs/cms/applied-coastal-ocean-sciences-phd/" target="_blank">Applied Coastal & Ocean Sciences, Ph.D.</a>
