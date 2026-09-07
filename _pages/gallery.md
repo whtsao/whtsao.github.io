@@ -16,7 +16,7 @@ classes: wide
       June 2026 - Andres collecting high-resolution tree geometry using a handheld scanner.
     </div>
   </div>
-
+<!--
   <div class="gallery-card">
     <img class="gallery-photo"
          src="/assets/images/gallery/mcneese_urop_1.jpg"
@@ -25,7 +25,7 @@ classes: wide
       March 2026 - Kayleen presenting her UROP Symposium poster on GPR modeling.
     </div>
   </div>
-
+-->
   <div class="gallery-card">
     <img class="gallery-photo"
          src="/assets/images/gallery/mcneese_urop_2.jpg"
