@@ -9,7 +9,7 @@ classes: wide
 ## Our Mission
 
 <p style="text-align: justify;">
-The <strong>Coastal Structures Lab</strong> develops innovative digital twin technologies to advance resilient and sustainable coastal communities.
+The <strong>Coastal Structures Lab</strong> envisions resilient and sustainable coastal communities through hybrid coastal systems informed by physical and digital knowledge across scales and fidelities.
 </p>
 ---
 
