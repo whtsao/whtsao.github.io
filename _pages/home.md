@@ -15,8 +15,7 @@ header:
 
 excerpt: >
   <span style="font-size: 1.25rem; font-weight: 500; color: #ffffff; line-height: 1.4;">
-  Building sustainable and resilient coastal communities<br/>
-  through hybrid physical–digital twin technologies
+  Learning Across Fidelities and Scales for the Next Generation of Hybrid Coastal Systems
   </span>
 
 feature_row:
