@@ -15,7 +15,8 @@ header:
 
 excerpt: >
   <span style="font-size: 1.25rem; font-weight: 500; color: #ffffff; line-height: 1.4;">
-  Learning Across Fidelities and Scales for the Next Generation of Hybrid Coastal Systems
+  Learning Across Fidelities and Scales <br/>
+  for the Next Generation of Hybrid Coastal Systems
   </span>
 
 feature_row:
