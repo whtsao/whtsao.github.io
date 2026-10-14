@@ -155,6 +155,10 @@ Chen, Y.H.<sup>*</sup>, Hwang, W.S. and <strong>Tsao, W.H.</strong> (2017). Nonl
 ## Presentations
 <ol>
   <li style="text-align: justify;">
+Mahmud, S., Pasbani, M., <strong>Tsao, W.H.</strong>, Su, Y.F. (2026). Exploring dredged material reuse for underwater additive manufacturing (UAM) through two-phase Newtonian–rheological flow modeling and experiments. WEDA Eastern Chapter Meeting, Wilmington, USA.
+  </li>
+
+  <li style="text-align: justify;">
 <strong>Tsao, W.H.</strong>, Kees, C.E., Heo, T., Liu, D.P., Manuel, L. (2026). Coupled wind-wave effects on the dynamics of coastal floating photovoltaics. 39th International Conference on Coastal Engineering, Galveston, USA.
   </li>
 
